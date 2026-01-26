@@ -1,0 +1,6162 @@
+[
+  {
+    "en": "let's=let us",
+    "zh": "让我们",
+    "category": null,
+    "emoji": "🤝",
+    "id": 0,
+    "day": 1,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "head",
+    "zh": "头",
+    "category": "Health",
+    "emoji": "🧑‍🦱",
+    "id": 1,
+    "day": 1,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "touch",
+    "zh": "触摸",
+    "category": null,
+    "emoji": "🤏",
+    "id": 2,
+    "day": 1,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "nose",
+    "zh": "鼻子",
+    "category": "Health",
+    "emoji": "👃",
+    "id": 3,
+    "day": 1,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "face",
+    "zh": "脸",
+    "category": "Health",
+    "emoji": "🙂",
+    "id": 4,
+    "day": 1,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "ear",
+    "zh": "耳朵",
+    "category": "Health",
+    "emoji": "👂",
+    "id": 5,
+    "day": 1,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "mouth",
+    "zh": "嘴",
+    "category": "Health",
+    "emoji": "👄",
+    "id": 6,
+    "day": 1,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "eye",
+    "zh": "眼睛",
+    "category": "Health",
+    "emoji": "👁️",
+    "id": 7,
+    "day": 1,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "body",
+    "zh": "身体",
+    "category": "Health",
+    "emoji": "🧍",
+    "id": 8,
+    "day": 1,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "these",
+    "zh": "这些",
+    "category": null,
+    "emoji": "👉",
+    "id": 9,
+    "day": 1,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "leg",
+    "zh": "腿",
+    "category": "Health",
+    "emoji": "🦵",
+    "id": 10,
+    "day": 1,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "hand",
+    "zh": "手",
+    "category": "Health",
+    "emoji": "✋",
+    "id": 11,
+    "day": 1,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "foot feet(复数)脚 足",
+    "zh": "脚 足",
+    "category": "Health",
+    "emoji": "🦶",
+    "id": 12,
+    "day": 1,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "baby",
+    "zh": "婴儿",
+    "category": null,
+    "emoji": "👶",
+    "id": 13,
+    "day": 1,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "they",
+    "zh": "他（她/它）们",
+    "category": null,
+    "emoji": "👥",
+    "id": 14,
+    "day": 1,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "they're=they are",
+    "zh": "他（她/它）们",
+    "category": null,
+    "emoji": "👥",
+    "id": 15,
+    "day": 1,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "是",
+    "zh": "是",
+    "category": null,
+    "emoji": "✔️",
+    "id": 16,
+    "day": 1,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "cow",
+    "zh": "奶牛",
+    "category": null,
+    "emoji": "🐄",
+    "id": 17,
+    "day": 1,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "pig",
+    "zh": "猪",
+    "category": null,
+    "emoji": "🐖",
+    "id": 18,
+    "day": 1,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "farm",
+    "zh": "农场",
+    "category": "Countryside",
+    "emoji": "🚜",
+    "id": 19,
+    "day": 1,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "duck",
+    "zh": "鸭子",
+    "category": null,
+    "emoji": "🦆",
+    "id": 20,
+    "day": 1,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "chichen",
+    "zh": "鸡",
+    "category": "Personal Feelings",
+    "emoji": "🐔",
+    "id": 21,
+    "day": 1,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "egg",
+    "zh": "鸡蛋",
+    "category": null,
+    "emoji": "🥚",
+    "id": 22,
+    "day": 1,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "thin",
+    "zh": "瘦的",
+    "category": "Personal Feelings",
+    "emoji": "🥢",
+    "id": 23,
+    "day": 1,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "very",
+    "zh": "很，非常",
+    "category": null,
+    "emoji": "🔥",
+    "id": 24,
+    "day": 1,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "fat",
+    "zh": "胖的",
+    "category": null,
+    "emoji": "🐷",
+    "id": 25,
+    "day": 2,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "big",
+    "zh": "大的",
+    "category": null,
+    "emoji": "📏",
+    "id": 26,
+    "day": 2,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "little",
+    "zh": "小的",
+    "category": null,
+    "emoji": "🔹",
+    "id": 27,
+    "day": 2,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "snake",
+    "zh": "蛇",
+    "category": null,
+    "emoji": "🐍",
+    "id": 28,
+    "day": 2,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "short",
+    "zh": "矮的 短的",
+    "category": null,
+    "emoji": "↘️",
+    "id": 29,
+    "day": 2,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "small",
+    "zh": "小的",
+    "category": null,
+    "emoji": "🔸",
+    "id": 30,
+    "day": 2,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "elephant",
+    "zh": "大象",
+    "category": null,
+    "emoji": "🐘",
+    "id": 31,
+    "day": 2,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "go",
+    "zh": "去",
+    "category": null,
+    "emoji": "➡️",
+    "id": 32,
+    "day": 2,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "zoo",
+    "zh": "动物园",
+    "category": "Natural World",
+    "emoji": "🏟️",
+    "id": 33,
+    "day": 2,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "long",
+    "zh": "长的",
+    "category": null,
+    "emoji": "↔️",
+    "id": 34,
+    "day": 2,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "giraffe",
+    "zh": "长颈鹿",
+    "category": null,
+    "emoji": "🦒",
+    "id": 35,
+    "day": 2,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "tall",
+    "zh": "高的",
+    "category": null,
+    "emoji": "📏",
+    "id": 36,
+    "day": 2,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "tiger",
+    "zh": "老虎",
+    "category": null,
+    "emoji": "🐅",
+    "id": 37,
+    "day": 2,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "cute",
+    "zh": "可爱的 乖巧的",
+    "category": "Personal Feelings",
+    "emoji": "😊",
+    "id": 38,
+    "day": 2,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "strong",
+    "zh": "强壮的",
+    "category": null,
+    "emoji": "💪",
+    "id": 39,
+    "day": 2,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "horse",
+    "zh": "马",
+    "category": null,
+    "emoji": "🐎",
+    "id": 40,
+    "day": 2,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "aren't=are not",
+    "zh": "不 不是",
+    "category": null,
+    "emoji": "🚫",
+    "id": 41,
+    "day": 2,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "there is",
+    "zh": "有，存在",
+    "category": null,
+    "emoji": "📍",
+    "id": 42,
+    "day": 2,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "animal",
+    "zh": "动物",
+    "category": "Natural World",
+    "emoji": "🐾",
+    "id": 43,
+    "day": 2,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "can",
+    "zh": "可以,能",
+    "category": null,
+    "emoji": "🆗",
+    "id": 44,
+    "day": 2,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "see",
+    "zh": "看见",
+    "category": null,
+    "emoji": "👀",
+    "id": 45,
+    "day": 2,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "there are",
+    "zh": "有，存在(复数)",
+    "category": null,
+    "emoji": "📍",
+    "id": 46,
+    "day": 2,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "help",
+    "zh": "帮助",
+    "category": "Services",
+    "emoji": "🆘",
+    "id": 47,
+    "day": 2,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "over there",
+    "zh": "在那边",
+    "category": null,
+    "emoji": "📍",
+    "id": 48,
+    "day": 2,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "table",
+    "zh": "桌子",
+    "category": null,
+    "emoji": "🛋️",
+    "id": 49,
+    "day": 2,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "we",
+    "zh": "我们",
+    "category": null,
+    "emoji": "👥",
+    "id": 50,
+    "day": 3,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "some",
+    "zh": "一些",
+    "category": "Measurements",
+    "emoji": "🔢",
+    "id": 51,
+    "day": 3,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "a pair of",
+    "zh": "一双… 一对…",
+    "category": "Measurements",
+    "emoji": "👟",
+    "id": 52,
+    "day": 3,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "shorts",
+    "zh": "(常复) 短裤",
+    "category": null,
+    "emoji": "🩳",
+    "id": 53,
+    "day": 3,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "shirt",
+    "zh": "衬衫",
+    "category": "Clothes",
+    "emoji": "👕",
+    "id": 54,
+    "day": 3,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "shoe",
+    "zh": "鞋子",
+    "category": "Clothes",
+    "emoji": "👞",
+    "id": 55,
+    "day": 3,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "swim",
+    "zh": "游泳",
+    "category": "Sport",
+    "emoji": "🏊",
+    "id": 56,
+    "day": 3,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "sock",
+    "zh": "短袜",
+    "category": "Clothes",
+    "emoji": "🧦",
+    "id": 57,
+    "day": 3,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "put on",
+    "zh": "穿上，戴上",
+    "category": null,
+    "emoji": "👚",
+    "id": 58,
+    "day": 3,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "clothers(常复)",
+    "zh": "衣服",
+    "category": "Clothes",
+    "emoji": "👗",
+    "id": 59,
+    "day": 3,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "here",
+    "zh": "这里",
+    "category": null,
+    "emoji": "📍",
+    "id": 60,
+    "day": 3,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "football",
+    "zh": "足球（运动）",
+    "category": "Sport",
+    "emoji": "🏈",
+    "id": 61,
+    "day": 3,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "basketball",
+    "zh": "篮球（运动）",
+    "category": "Sport",
+    "emoji": "🏀",
+    "id": 62,
+    "day": 3,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "ping-pong",
+    "zh": "乒乓球（运动）",
+    "category": "Sport",
+    "emoji": "🏓",
+    "id": 63,
+    "day": 3,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "like",
+    "zh": "喜欢",
+    "category": "Personal Feelings",
+    "emoji": "👍",
+    "id": 64,
+    "day": 3,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "lion",
+    "zh": "狮子",
+    "category": null,
+    "emoji": "🦁",
+    "id": 65,
+    "day": 3,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "them",
+    "zh": "他（她/它）们(宾格)",
+    "category": null,
+    "emoji": "👥",
+    "id": 66,
+    "day": 3,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "all",
+    "zh": "全部，所有",
+    "category": null,
+    "emoji": "👐",
+    "id": 67,
+    "day": 3,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "play",
+    "zh": "参加（运动，比赛）玩耍",
+    "category": "Sport",
+    "emoji": "🎮",
+    "id": 68,
+    "day": 3,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "with",
+    "zh": "用……",
+    "category": null,
+    "emoji": "🤝",
+    "id": 69,
+    "day": 3,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "together",
+    "zh": "一起",
+    "category": "Measurements",
+    "emoji": "🤗",
+    "id": 70,
+    "day": 3,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "favourite",
+    "zh": "最喜欢的，最喜爱的",
+    "category": "Personal Feelings",
+    "emoji": "⭐",
+    "id": 71,
+    "day": 3,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "swimming",
+    "zh": "游泳（运动）",
+    "category": "Sport",
+    "emoji": "🏊‍♂️",
+    "id": 72,
+    "day": 3,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 10",
+    "zh": null,
+    "category": null,
+    "emoji": "🔟",
+    "id": 73,
+    "day": 3,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "idea",
+    "zh": "主意，想法",
+    "category": null,
+    "emoji": "💡",
+    "id": 74,
+    "day": 3,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "hot",
+    "zh": "热的",
+    "category": "Weather",
+    "emoji": "🔥",
+    "id": 75,
+    "day": 4,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "go swimming",
+    "zh": "去游泳",
+    "category": "Sport",
+    "emoji": "🏊‍♀️",
+    "id": 76,
+    "day": 4,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "sing",
+    "zh": "唱，唱歌",
+    "category": null,
+    "emoji": "🎤",
+    "id": 77,
+    "day": 4,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "dance",
+    "zh": "跳舞",
+    "category": "Sport",
+    "emoji": "💃",
+    "id": 78,
+    "day": 4,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "tired",
+    "zh": "累的，疲惫的",
+    "category": "Colours",
+    "emoji": "😴",
+    "id": 79,
+    "day": 4,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "home",
+    "zh": "家",
+    "category": null,
+    "emoji": "🏠",
+    "id": 80,
+    "day": 4,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "go home",
+    "zh": "回家",
+    "category": null,
+    "emoji": "🏡",
+    "id": 81,
+    "day": 4,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "watch",
+    "zh": "观看",
+    "category": "Time",
+    "emoji": "⌚",
+    "id": 82,
+    "day": 4,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "watch TV",
+    "zh": "看电视",
+    "category": "Appliances",
+    "emoji": "📺",
+    "id": 83,
+    "day": 4,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 6",
+    "zh": null,
+    "category": null,
+    "emoji": "6️⃣",
+    "id": 84,
+    "day": 4,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "on",
+    "zh": "在……的时候",
+    "category": null,
+    "emoji": "🔛",
+    "id": 85,
+    "day": 4,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "Sunday",
+    "zh": "星期日",
+    "category": "Time",
+    "emoji": "🌞",
+    "id": 86,
+    "day": 4,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "park",
+    "zh": "公园",
+    "category": "Town and City",
+    "emoji": "🏞️",
+    "id": 87,
+    "day": 4,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "great",
+    "zh": "太好了，好极了",
+    "category": "Food",
+    "emoji": "👍",
+    "id": 88,
+    "day": 4,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "goal",
+    "zh": "进球，得分",
+    "category": "Sport",
+    "emoji": "🥅",
+    "id": 89,
+    "day": 4,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "live",
+    "zh": "居住",
+    "category": null,
+    "emoji": "🔴",
+    "id": 90,
+    "day": 4,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "moon",
+    "zh": "月亮",
+    "category": "Time",
+    "emoji": "🌙",
+    "id": 91,
+    "day": 4,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "sky",
+    "zh": "天，天空",
+    "category": "Time",
+    "emoji": "☁️",
+    "id": 92,
+    "day": 4,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "city",
+    "zh": "城市",
+    "category": "Town and City",
+    "emoji": "🏙️",
+    "id": 93,
+    "day": 4,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 7",
+    "zh": null,
+    "category": null,
+    "emoji": "7️⃣",
+    "id": 94,
+    "day": 4,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "how",
+    "zh": "怎么样，如何",
+    "category": null,
+    "emoji": "❓",
+    "id": 95,
+    "day": 4,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "train",
+    "zh": "火车",
+    "category": "Travel and Transport",
+    "emoji": "🚆",
+    "id": 96,
+    "day": 4,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "bus",
+    "zh": "公共汽车",
+    "category": "Travel and Transport",
+    "emoji": "🚌",
+    "id": 97,
+    "day": 4,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "beep",
+    "zh": "（汽车喇叭）嘟嘟声",
+    "category": "Travel and Transport",
+    "emoji": "📢",
+    "id": 98,
+    "day": 4,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "by",
+    "zh": "乘，坐（交通工具）",
+    "category": null,
+    "emoji": "➡️",
+    "id": 99,
+    "day": 4,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "walk",
+    "zh": "步行",
+    "category": null,
+    "emoji": "🚶",
+    "id": 100,
+    "day": 5,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "How about...?",
+    "zh": "……怎么样?",
+    "category": null,
+    "emoji": "🤔",
+    "id": 101,
+    "day": 5,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "goes (go 第三人称单数)",
+    "zh": "去",
+    "category": "Measurements",
+    "emoji": "➡️",
+    "id": 102,
+    "day": 5,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "work",
+    "zh": "工作地点；工作",
+    "category": "Work and Jobs",
+    "emoji": "💼",
+    "id": 103,
+    "day": 5,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "go to work",
+    "zh": "去上班",
+    "category": "Work and Jobs",
+    "emoji": "🏢",
+    "id": 104,
+    "day": 5,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "bike",
+    "zh": "自行车",
+    "category": "Travel and Transport",
+    "emoji": "🚴",
+    "id": 105,
+    "day": 5,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "run",
+    "zh": "跑，奔跑",
+    "category": "Sport",
+    "emoji": "🏃",
+    "id": 106,
+    "day": 5,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "holiday",
+    "zh": "假期",
+    "category": "Time",
+    "emoji": "🏖️",
+    "id": 107,
+    "day": 5,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "on holiday",
+    "zh": "度假",
+    "category": "Time",
+    "emoji": "🌴",
+    "id": 108,
+    "day": 5,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "then",
+    "zh": "然后",
+    "category": null,
+    "emoji": "➡️",
+    "id": 109,
+    "day": 5,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "ship",
+    "zh": "轮船",
+    "category": "Personal Feelings",
+    "emoji": "🚢",
+    "id": 110,
+    "day": 5,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "plane",
+    "zh": "飞机",
+    "category": "Travel and Transport",
+    "emoji": "✈️",
+    "id": 111,
+    "day": 5,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "love",
+    "zh": "喜爱",
+    "category": "Personal Feelings",
+    "emoji": "❤️",
+    "id": 112,
+    "day": 5,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "watches (watch第三人称单数形式)",
+    "zh": "观看",
+    "category": "Time",
+    "emoji": "⌚",
+    "id": 113,
+    "day": 5,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "weekend",
+    "zh": "周末",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 114,
+    "day": 5,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "read",
+    "zh": "阅读",
+    "category": null,
+    "emoji": "📖",
+    "id": 115,
+    "day": 5,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "come",
+    "zh": "来",
+    "category": null,
+    "emoji": "👋",
+    "id": 116,
+    "day": 5,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "piano",
+    "zh": "钢琴",
+    "category": null,
+    "emoji": "🎹",
+    "id": 117,
+    "day": 5,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "music",
+    "zh": "音乐",
+    "category": null,
+    "emoji": "🎵",
+    "id": 118,
+    "day": 5,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "listen",
+    "zh": "听",
+    "category": "Measurements",
+    "emoji": "👂",
+    "id": 119,
+    "day": 5,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "listen to...",
+    "zh": "听……",
+    "category": "Measurements",
+    "emoji": "👂🎶",
+    "id": 120,
+    "day": 5,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "drum",
+    "zh": "鼓",
+    "category": null,
+    "emoji": "🥁",
+    "id": 121,
+    "day": 5,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "winter",
+    "zh": "冬天",
+    "category": "Time",
+    "emoji": "❄️",
+    "id": 122,
+    "day": 5,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "fly",
+    "zh": "放飞（风筝）",
+    "category": "Weather",
+    "emoji": "🕊️",
+    "id": 123,
+    "day": 5,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "in",
+    "zh": "在……期间，在……时候",
+    "category": null,
+    "emoji": "📥",
+    "id": 124,
+    "day": 5,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "spring",
+    "zh": "春天",
+    "category": "Time",
+    "emoji": "🌸",
+    "id": 125,
+    "day": 6,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "summer",
+    "zh": "夏天",
+    "category": "Time",
+    "emoji": "☀️",
+    "id": 126,
+    "day": 6,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "autumn",
+    "zh": "秋天",
+    "category": "Time",
+    "emoji": "🍂",
+    "id": 127,
+    "day": 6,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "skating",
+    "zh": "滑冰",
+    "category": null,
+    "emoji": "⛸️",
+    "id": 128,
+    "day": 6,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "go skating",
+    "zh": "去滑冰",
+    "category": null,
+    "emoji": "⛸️",
+    "id": 129,
+    "day": 6,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "warm",
+    "zh": "温暖的",
+    "category": "Weather",
+    "emoji": "🔥",
+    "id": 130,
+    "day": 6,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "wear",
+    "zh": "穿、戴",
+    "category": "Health",
+    "emoji": "👕",
+    "id": 131,
+    "day": 6,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "jacket",
+    "zh": "夹克，短上衣",
+    "category": "Clothes",
+    "emoji": "🧥",
+    "id": 132,
+    "day": 6,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "sunglasses",
+    "zh": "太阳镜",
+    "category": "Weather",
+    "emoji": "🕶️",
+    "id": 133,
+    "day": 6,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "cool",
+    "zh": "凉爽的；酷的",
+    "category": "Weather",
+    "emoji": "😎",
+    "id": 134,
+    "day": 6,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "sweater",
+    "zh": "毛线衫",
+    "category": "Food",
+    "emoji": "🧥",
+    "id": 135,
+    "day": 6,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "glove",
+    "zh": "手套",
+    "category": "Health",
+    "emoji": "🧤",
+    "id": 136,
+    "day": 6,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "cold",
+    "zh": "寒冷的",
+    "category": "Weather",
+    "emoji": "🥶",
+    "id": 137,
+    "day": 6,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "coat",
+    "zh": "外套",
+    "category": "Clothes",
+    "emoji": "🧥",
+    "id": 138,
+    "day": 6,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "year",
+    "zh": "年，年份",
+    "category": "Time",
+    "emoji": "📆",
+    "id": 139,
+    "day": 6,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "Happy New Year!",
+    "zh": "新年快乐！",
+    "category": "Time",
+    "emoji": "🎉",
+    "id": 140,
+    "day": 6,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "come in",
+    "zh": "进来",
+    "category": null,
+    "emoji": "🚪",
+    "id": 141,
+    "day": 6,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "present",
+    "zh": "礼物",
+    "category": null,
+    "emoji": "🎁",
+    "id": 142,
+    "day": 6,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "dumpling",
+    "zh": "水饺",
+    "category": "Natural World",
+    "emoji": "🥟",
+    "id": 143,
+    "day": 6,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "eat",
+    "zh": "吃",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 144,
+    "day": 6,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "Chinese",
+    "zh": "中国的",
+    "category": "Personal Feelings",
+    "emoji": "🇨🇳",
+    "id": 145,
+    "day": 6,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "hair",
+    "zh": "头发",
+    "category": "Health",
+    "emoji": "💇",
+    "id": 146,
+    "day": 6,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "firecracker",
+    "zh": "鞭炮，爆竹",
+    "category": "Services",
+    "emoji": "🧨",
+    "id": 147,
+    "day": 6,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "have",
+    "zh": "有",
+    "category": null,
+    "emoji": "🤲",
+    "id": 148,
+    "day": 6,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "Christmas",
+    "zh": "圣诞节",
+    "category": null,
+    "emoji": "🎄",
+    "id": 149,
+    "day": 6,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "wish",
+    "zh": "祝，祝愿",
+    "category": null,
+    "emoji": "✨",
+    "id": 150,
+    "day": 7,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "dinner",
+    "zh": "正餐，主餐",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 151,
+    "day": 7,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "colour",
+    "zh": "给……着色",
+    "category": "Colours",
+    "emoji": "🎨",
+    "id": 152,
+    "day": 7,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "tidy",
+    "zh": "整理；收拾",
+    "category": null,
+    "emoji": "🧹",
+    "id": 153,
+    "day": 7,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "room",
+    "zh": "房间",
+    "category": null,
+    "emoji": "🚪",
+    "id": 154,
+    "day": 7,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "do",
+    "zh": "做，干",
+    "category": null,
+    "emoji": "✔️",
+    "id": 155,
+    "day": 7,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "homework",
+    "zh": "家庭作业",
+    "category": "Family",
+    "emoji": "📚",
+    "id": 156,
+    "day": 7,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "sleep",
+    "zh": "睡觉",
+    "category": null,
+    "emoji": "😴",
+    "id": 157,
+    "day": 7,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "secret",
+    "zh": "秘密",
+    "category": null,
+    "emoji": "🤫",
+    "id": 158,
+    "day": 7,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "card",
+    "zh": "贺卡",
+    "category": "Travel and Transport",
+    "emoji": "💳",
+    "id": 159,
+    "day": 7,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "flower",
+    "zh": "花",
+    "category": "Natural World",
+    "emoji": "🌸",
+    "id": 160,
+    "day": 7,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "science",
+    "zh": "科学",
+    "category": null,
+    "emoji": "🔬",
+    "id": 161,
+    "day": 7,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "today",
+    "zh": "今天",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 162,
+    "day": 7,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "call",
+    "zh": "打电话，通话",
+    "category": "Appliances",
+    "emoji": "📞",
+    "id": 163,
+    "day": 7,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "noise",
+    "zh": "声音，响声",
+    "category": null,
+    "emoji": "🔊",
+    "id": 164,
+    "day": 7,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "drink",
+    "zh": "喝，饮",
+    "category": "Food",
+    "emoji": "🥤",
+    "id": 165,
+    "day": 7,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "talk",
+    "zh": "说话，交谈",
+    "category": null,
+    "emoji": "🗣️",
+    "id": 166,
+    "day": 7,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "stone",
+    "zh": "石子，石头",
+    "category": "Health",
+    "emoji": "🪨",
+    "id": 167,
+    "day": 7,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "five-stones",
+    "zh": "五石游戏",
+    "category": "Sport",
+    "emoji": "🪨🪨🪨🪨🪨",
+    "id": 168,
+    "day": 7,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "behind",
+    "zh": "在……后面",
+    "category": "Personal Feelings",
+    "emoji": "↩️",
+    "id": 169,
+    "day": 7,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "hide",
+    "zh": "躲藏",
+    "category": "Personal Feelings",
+    "emoji": "🙈",
+    "id": 170,
+    "day": 7,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "seek",
+    "zh": "寻找",
+    "category": null,
+    "emoji": "👀",
+    "id": 171,
+    "day": 7,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "hide-and-seek",
+    "zh": "捉迷藏",
+    "category": "Personal Feelings",
+    "emoji": "🙈👀",
+    "id": 172,
+    "day": 7,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "skip",
+    "zh": "跳绳",
+    "category": "Sport",
+    "emoji": "⏭️",
+    "id": 173,
+    "day": 7,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "hurry up",
+    "zh": "赶快",
+    "category": null,
+    "emoji": "🏃‍♂️💨",
+    "id": 174,
+    "day": 7,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "late",
+    "zh": "晚的，迟的",
+    "category": null,
+    "emoji": "⌛",
+    "id": 175,
+    "day": 8,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "sad",
+    "zh": "伤心的，难过的",
+    "category": "Personal Feelings",
+    "emoji": "😢",
+    "id": 176,
+    "day": 8,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "no",
+    "zh": "没有",
+    "category": null,
+    "emoji": "❌",
+    "id": 177,
+    "day": 8,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "those",
+    "zh": "那些",
+    "category": null,
+    "emoji": "👉",
+    "id": 178,
+    "day": 8,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "clap",
+    "zh": "拍手",
+    "category": "Health",
+    "emoji": "👏",
+    "id": 179,
+    "day": 8,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "game",
+    "zh": "游戏",
+    "category": "Sport",
+    "emoji": "🎮",
+    "id": 180,
+    "day": 8,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "clapping game",
+    "zh": "拍手游戏",
+    "category": "Health",
+    "emoji": "👏🤲",
+    "id": 181,
+    "day": 8,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "well",
+    "zh": "哦，喔，好",
+    "category": null,
+    "emoji": "👍",
+    "id": 182,
+    "day": 8,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "kid",
+    "zh": "小孩",
+    "category": null,
+    "emoji": "🧒",
+    "id": 183,
+    "day": 8,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "catch",
+    "zh": "抓，捉；捉人游戏",
+    "category": "Natural World",
+    "emoji": "🤲",
+    "id": 184,
+    "day": 8,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "of course",
+    "zh": "当然",
+    "category": null,
+    "emoji": "✅",
+    "id": 185,
+    "day": 8,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "usually",
+    "zh": "通常地",
+    "category": null,
+    "emoji": "🔄",
+    "id": 186,
+    "day": 8,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "us",
+    "zh": "(宾格) 我们",
+    "category": null,
+    "emoji": "🤝",
+    "id": 187,
+    "day": 8,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "ride",
+    "zh": "骑",
+    "category": null,
+    "emoji": "🚴",
+    "id": 188,
+    "day": 8,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "thing",
+    "zh": "事情，活动",
+    "category": "Personal Feelings",
+    "emoji": "📦",
+    "id": 189,
+    "day": 8,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "ill",
+    "zh": "有病的",
+    "category": "Health",
+    "emoji": "🤒",
+    "id": 190,
+    "day": 8,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "cook",
+    "zh": "做（饭），烧（菜）",
+    "category": "Food",
+    "emoji": "👩‍🍳",
+    "id": 191,
+    "day": 8,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "her",
+    "zh": "(宾格) 她",
+    "category": null,
+    "emoji": "👩",
+    "id": 192,
+    "day": 8,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "goshopping",
+    "zh": "去购物",
+    "category": "Buildings",
+    "emoji": "🛍️",
+    "id": 193,
+    "day": 8,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "kitchen",
+    "zh": "厨房",
+    "category": null,
+    "emoji": "🍳",
+    "id": 194,
+    "day": 8,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "Children's Day",
+    "zh": "儿童节",
+    "category": "Time",
+    "emoji": "🎏",
+    "id": 195,
+    "day": 8,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "TV",
+    "zh": "电视台",
+    "category": "Appliances",
+    "emoji": "📺",
+    "id": 196,
+    "day": 8,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "say",
+    "zh": "念，朗诵",
+    "category": null,
+    "emoji": "🗨️",
+    "id": 197,
+    "day": 8,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "poem",
+    "zh": "诗",
+    "category": null,
+    "emoji": "📜",
+    "id": 198,
+    "day": 8,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "dragon",
+    "zh": "龙",
+    "category": null,
+    "emoji": "🐉",
+    "id": 199,
+    "day": 8,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "dragon dance",
+    "zh": "舞龙",
+    "category": null,
+    "emoji": "🐉",
+    "id": 200,
+    "day": 9,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "picnic",
+    "zh": "野餐",
+    "category": null,
+    "emoji": "🧺",
+    "id": 201,
+    "day": 9,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "family",
+    "zh": "家，家庭",
+    "category": "Family",
+    "emoji": "👪",
+    "id": 202,
+    "day": 9,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "beach",
+    "zh": "海滩",
+    "category": "Natural World",
+    "emoji": "🏖️",
+    "id": 203,
+    "day": 9,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "hill",
+    "zh": "小山",
+    "category": "Natural World",
+    "emoji": "⛰️",
+    "id": 204,
+    "day": 9,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "past",
+    "zh": "经过",
+    "category": null,
+    "emoji": "🕰️",
+    "id": 205,
+    "day": 9,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "station",
+    "zh": "车站",
+    "category": "Travel and Transport",
+    "emoji": "🚉",
+    "id": 206,
+    "day": 9,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "hospital",
+    "zh": "医院",
+    "category": "Buildings",
+    "emoji": "🏥",
+    "id": 207,
+    "day": 9,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "stop",
+    "zh": "停止",
+    "category": null,
+    "emoji": "🛑",
+    "id": 208,
+    "day": 9,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "turn",
+    "zh": "转向，转弯",
+    "category": null,
+    "emoji": "↩️",
+    "id": 209,
+    "day": 9,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "around",
+    "zh": "到另一面，转向",
+    "category": "Measurements",
+    "emoji": "🔄",
+    "id": 210,
+    "day": 9,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "turn around",
+    "zh": "转身，回转",
+    "category": null,
+    "emoji": "🔄",
+    "id": 211,
+    "day": 9,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "ground",
+    "zh": "地面",
+    "category": null,
+    "emoji": "🌍",
+    "id": 212,
+    "day": 9,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "again",
+    "zh": "又一次，再一次",
+    "category": "Measurements",
+    "emoji": "🔁",
+    "id": 213,
+    "day": 9,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "jump",
+    "zh": "跳跃",
+    "category": "Sport",
+    "emoji": "🤾",
+    "id": 214,
+    "day": 9,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "back",
+    "zh": "回到，返回",
+    "category": null,
+    "emoji": "↩️",
+    "id": 215,
+    "day": 9,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "come back",
+    "zh": "回来",
+    "category": null,
+    "emoji": "↩️",
+    "id": 216,
+    "day": 9,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "left",
+    "zh": "向左；左边的",
+    "category": null,
+    "emoji": "⬅️",
+    "id": 217,
+    "day": 9,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "turnleft",
+    "zh": "向左转",
+    "category": null,
+    "emoji": "⬅️",
+    "id": 218,
+    "day": 9,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "right",
+    "zh": "向右；右边的",
+    "category": null,
+    "emoji": "➡️",
+    "id": 219,
+    "day": 9,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "turnright",
+    "zh": "向右转",
+    "category": null,
+    "emoji": "➡️",
+    "id": 220,
+    "day": 9,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "road",
+    "zh": "公路，道路",
+    "category": "Travel and Transport",
+    "emoji": "🛣️",
+    "id": 221,
+    "day": 9,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "excuseme",
+    "zh": "劳驾, 对不起",
+    "category": "Personal Feelings",
+    "emoji": "🙏",
+    "id": 222,
+    "day": 9,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "straight",
+    "zh": "直地, 直线地",
+    "category": null,
+    "emoji": "⬆️",
+    "id": 223,
+    "day": 9,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "go straight on",
+    "zh": "直着走",
+    "category": null,
+    "emoji": "⬆️",
+    "id": 224,
+    "day": 9,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "lost",
+    "zh": "迷路的",
+    "category": null,
+    "emoji": "😕",
+    "id": 225,
+    "day": 10,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "out",
+    "zh": "出, 向外",
+    "category": null,
+    "emoji": "🚪",
+    "id": 226,
+    "day": 10,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "factory",
+    "zh": "工厂",
+    "category": null,
+    "emoji": "🏭",
+    "id": 227,
+    "day": 10,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "next to",
+    "zh": "接近, 靠近",
+    "category": null,
+    "emoji": "➡️",
+    "id": 228,
+    "day": 10,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "cousin",
+    "zh": "堂(表)兄(弟姐妹)",
+    "category": "Family",
+    "emoji": "👫",
+    "id": 229,
+    "day": 10,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "supermarket",
+    "zh": "超市",
+    "category": "Shopping",
+    "emoji": "🏬",
+    "id": 230,
+    "day": 10,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "wrong",
+    "zh": "不正确的",
+    "category": null,
+    "emoji": "❌",
+    "id": 231,
+    "day": 10,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "way",
+    "zh": "道路, 路线",
+    "category": "Travel and Transport",
+    "emoji": "🛤️",
+    "id": 232,
+    "day": 10,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "turn back",
+    "zh": "往回走",
+    "category": null,
+    "emoji": "↩️",
+    "id": 233,
+    "day": 10,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "front",
+    "zh": "前面",
+    "category": null,
+    "emoji": "⏩",
+    "id": 234,
+    "day": 10,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "infront",
+    "zh": "在……前面",
+    "category": null,
+    "emoji": "⏩",
+    "id": 235,
+    "day": 10,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "taxi",
+    "zh": "出租车, 计程车",
+    "category": "Travel and Transport",
+    "emoji": "🚕",
+    "id": 236,
+    "day": 10,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "Mrs",
+    "zh": "太太, 夫人",
+    "category": null,
+    "emoji": "👩",
+    "id": 237,
+    "day": 10,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "Cinema",
+    "zh": "电影院",
+    "category": "Buildings",
+    "emoji": "🎬",
+    "id": 238,
+    "day": 10,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "hard",
+    "zh": "困难的",
+    "category": null,
+    "emoji": "💪",
+    "id": 239,
+    "day": 10,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "knife",
+    "zh": "刀",
+    "category": null,
+    "emoji": "🔪",
+    "id": 240,
+    "day": 10,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "fork",
+    "zh": "叉",
+    "category": null,
+    "emoji": "🍴",
+    "id": 241,
+    "day": 10,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "a knife and fork",
+    "zh": "一副刀叉",
+    "category": "Measurements",
+    "emoji": "🍴",
+    "id": 242,
+    "day": 10,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "easy",
+    "zh": "容易的",
+    "category": null,
+    "emoji": "✅",
+    "id": 243,
+    "day": 10,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "hamburger",
+    "zh": "汉堡包",
+    "category": null,
+    "emoji": "🍔",
+    "id": 244,
+    "day": 10,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "chips",
+    "zh": "(常复) 炸薯条",
+    "category": "Personal Feelings",
+    "emoji": "🍟",
+    "id": 245,
+    "day": 10,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "grass",
+    "zh": "草",
+    "category": "Natural World",
+    "emoji": "🌿",
+    "id": 246,
+    "day": 10,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "food",
+    "zh": "食物",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 247,
+    "day": 10,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "fast food",
+    "zh": "快餐",
+    "category": "Food",
+    "emoji": "🍔",
+    "id": 248,
+    "day": 10,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "make",
+    "zh": "制作",
+    "category": null,
+    "emoji": "📖",
+    "id": 249,
+    "day": 10,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "cake",
+    "zh": "蛋糕",
+    "category": "Food",
+    "emoji": "🍰",
+    "id": 250,
+    "day": 11,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "mum",
+    "zh": "妈妈",
+    "category": "Family",
+    "emoji": "👩‍👧‍👦",
+    "id": 251,
+    "day": 11,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "dad",
+    "zh": "爸爸",
+    "category": "Family",
+    "emoji": "👨‍👧‍👦",
+    "id": 252,
+    "day": 11,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "quiet",
+    "zh": "安静的, 不出声的",
+    "category": null,
+    "emoji": "🤫",
+    "id": 253,
+    "day": 11,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "water",
+    "zh": "给(植物)浇水; 水",
+    "category": "Natural World",
+    "emoji": "💧",
+    "id": 254,
+    "day": 11,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "lovely",
+    "zh": "可爱的",
+    "category": "Personal Feelings",
+    "emoji": "😍",
+    "id": 255,
+    "day": 11,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "naughty",
+    "zh": "淘气的",
+    "category": null,
+    "emoji": "😈",
+    "id": 256,
+    "day": 11,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "paper",
+    "zh": "纸做的, 纸质的",
+    "category": null,
+    "emoji": "📄",
+    "id": 257,
+    "day": 11,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "boat",
+    "zh": "小船, 小舟",
+    "category": "Travel and Transport",
+    "emoji": "⛵",
+    "id": 258,
+    "day": 11,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "dragon boat",
+    "zh": "龙舟",
+    "category": "Travel and Transport",
+    "emoji": "🐉🛶",
+    "id": 259,
+    "day": 11,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "people",
+    "zh": "人, 人们",
+    "category": null,
+    "emoji": "🧑‍🤝‍🧑",
+    "id": 260,
+    "day": 11,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "row",
+    "zh": "划(船)",
+    "category": "Travel and Transport",
+    "emoji": "🚣",
+    "id": 261,
+    "day": 11,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "lake",
+    "zh": "湖",
+    "category": "Natural World",
+    "emoji": "🏞️",
+    "id": 262,
+    "day": 11,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "feed",
+    "zh": "喂, 为……提供食物",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 263,
+    "day": 11,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "bread",
+    "zh": "面包",
+    "category": "Food",
+    "emoji": "🍞",
+    "id": 264,
+    "day": 11,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "get out",
+    "zh": "走开, 离开",
+    "category": null,
+    "emoji": "🚪",
+    "id": 265,
+    "day": 11,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "far",
+    "zh": "远",
+    "category": null,
+    "emoji": "📡",
+    "id": 266,
+    "day": 11,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "fast",
+    "zh": "快, 快速地",
+    "category": null,
+    "emoji": "⚡",
+    "id": 267,
+    "day": 11,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "winner",
+    "zh": "胜利者",
+    "category": null,
+    "emoji": "🏆",
+    "id": 268,
+    "day": 11,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "can't = cannot",
+    "zh": "不能",
+    "category": null,
+    "emoji": "🚫",
+    "id": 269,
+    "day": 11,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "slow",
+    "zh": "慢的",
+    "category": null,
+    "emoji": "🐢",
+    "id": 270,
+    "day": 11,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "koala",
+    "zh": "树袋熊, 考拉",
+    "category": "Natural World",
+    "emoji": "🐨",
+    "id": 271,
+    "day": 11,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "climb",
+    "zh": "爬",
+    "category": null,
+    "emoji": "🧗",
+    "id": 272,
+    "day": 11,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "cry",
+    "zh": "哭",
+    "category": null,
+    "emoji": "😭",
+    "id": 273,
+    "day": 11,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "shop",
+    "zh": "商店",
+    "category": "Buildings",
+    "emoji": "🏬",
+    "id": 274,
+    "day": 11,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "go out",
+    "zh": "外出",
+    "category": null,
+    "emoji": "🚶‍♂️",
+    "id": 275,
+    "day": 12,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "thanks",
+    "zh": "谢谢",
+    "category": "Personal Feelings",
+    "emoji": "🙏",
+    "id": 276,
+    "day": 12,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "library",
+    "zh": "图书馆, 图书室",
+    "category": "Buildings",
+    "emoji": "🏛️",
+    "id": 277,
+    "day": 12,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "worry",
+    "zh": "担心",
+    "category": "Personal Feelings",
+    "emoji": "😟",
+    "id": 278,
+    "day": 12,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "have got",
+    "zh": "有",
+    "category": null,
+    "emoji": "🤲",
+    "id": 279,
+    "day": 12,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "careful",
+    "zh": "小心的",
+    "category": "Travel and Transport",
+    "emoji": "⚠️",
+    "id": 280,
+    "day": 12,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "wash",
+    "zh": "洗",
+    "category": null,
+    "emoji": "🧼",
+    "id": 281,
+    "day": 12,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "has got (have got的第三人称单数形式)",
+    "zh": "有",
+    "category": "Measurements",
+    "emoji": "🤲",
+    "id": 282,
+    "day": 12,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "pear",
+    "zh": "梨",
+    "category": "Health",
+    "emoji": "🍐",
+    "id": 283,
+    "day": 12,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "peach",
+    "zh": "桃子",
+    "category": null,
+    "emoji": "🍑",
+    "id": 284,
+    "day": 12,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "headache",
+    "zh": "头痛",
+    "category": "Health",
+    "emoji": "🤕",
+    "id": 285,
+    "day": 12,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "stomachache",
+    "zh": "胃痛；腹痛",
+    "category": null,
+    "emoji": "🤢",
+    "id": 286,
+    "day": 12,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "test",
+    "zh": "考试",
+    "category": null,
+    "emoji": "📝",
+    "id": 287,
+    "day": 12,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "Friday",
+    "zh": "星期五",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 288,
+    "day": 12,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "clever",
+    "zh": "聪明的",
+    "category": null,
+    "emoji": "🧠",
+    "id": 289,
+    "day": 12,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "class",
+    "zh": "课",
+    "category": null,
+    "emoji": "🏫",
+    "id": 290,
+    "day": 12,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "begin",
+    "zh": "开始",
+    "category": null,
+    "emoji": "▶️",
+    "id": 291,
+    "day": 12,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "cough",
+    "zh": "咳嗽",
+    "category": null,
+    "emoji": "🤧",
+    "id": 292,
+    "day": 12,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "bring",
+    "zh": "带来",
+    "category": null,
+    "emoji": "🤲",
+    "id": 293,
+    "day": 12,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "umbrella",
+    "zh": "雨伞",
+    "category": "Weather",
+    "emoji": "☂️",
+    "id": 294,
+    "day": 12,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "get",
+    "zh": "拿，取",
+    "category": null,
+    "emoji": "🤲",
+    "id": 295,
+    "day": 12,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "which",
+    "zh": "哪一个",
+    "category": "Personal Feelings",
+    "emoji": "❓",
+    "id": 296,
+    "day": 12,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "broken",
+    "zh": "损坏的",
+    "category": null,
+    "emoji": "💔",
+    "id": 297,
+    "day": 12,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "long jump",
+    "zh": "跳远",
+    "category": "Sport",
+    "emoji": "🤸‍♂️",
+    "id": 298,
+    "day": 12,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "make friends",
+    "zh": "交朋友",
+    "category": null,
+    "emoji": "🤝",
+    "id": 299,
+    "day": 12,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "sports day",
+    "zh": "运动日",
+    "category": "Time",
+    "emoji": "🏅",
+    "id": 300,
+    "day": 13,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "high",
+    "zh": "高的",
+    "category": "Personal Feelings",
+    "emoji": "⬆️",
+    "id": 301,
+    "day": 13,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "high jump",
+    "zh": "跳高",
+    "category": "Sport",
+    "emoji": "🤸‍♂️",
+    "id": 302,
+    "day": 13,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "race",
+    "zh": "赛跑",
+    "category": null,
+    "emoji": "🏁",
+    "id": 303,
+    "day": 13,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "run a race",
+    "zh": "（参加）赛跑",
+    "category": "Sport",
+    "emoji": "🏃",
+    "id": 304,
+    "day": 13,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "star",
+    "zh": "明星；星",
+    "category": "Natural World",
+    "emoji": "⭐",
+    "id": 305,
+    "day": 13,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "uncle",
+    "zh": "伯父；叔父；姑父；姨父",
+    "category": "Family",
+    "emoji": "👨‍🦳",
+    "id": 306,
+    "day": 13,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "father",
+    "zh": "父",
+    "category": "Family",
+    "emoji": "👨",
+    "id": 307,
+    "day": 13,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "airport",
+    "zh": "飞机场",
+    "category": "Travel and Transport",
+    "emoji": "✈️",
+    "id": 308,
+    "day": 13,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "sea",
+    "zh": "大海",
+    "category": "Natural World",
+    "emoji": "🌊",
+    "id": 309,
+    "day": 13,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "visit",
+    "zh": "拜访（某人），参观（某地）",
+    "category": null,
+    "emoji": "👋",
+    "id": 310,
+    "day": 13,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "Saturday",
+    "zh": "星期六",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 311,
+    "day": 13,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "film",
+    "zh": "电影",
+    "category": null,
+    "emoji": "🎬",
+    "id": 312,
+    "day": 13,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "about",
+    "zh": "关于",
+    "category": null,
+    "emoji": "ℹ️",
+    "id": 313,
+    "day": 13,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "river",
+    "zh": "河",
+    "category": "Natural World",
+    "emoji": "🏞️",
+    "id": 314,
+    "day": 13,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "wide",
+    "zh": "宽的，宽阔的",
+    "category": null,
+    "emoji": "↔️",
+    "id": 315,
+    "day": 13,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "old",
+    "zh": "年代久的，古老的",
+    "category": "Time",
+    "emoji": "🧓",
+    "id": 316,
+    "day": 13,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "clock",
+    "zh": "钟，时钟",
+    "category": "Time",
+    "emoji": "🕰️",
+    "id": 317,
+    "day": 13,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "wheel",
+    "zh": "轮子",
+    "category": null,
+    "emoji": "⚙️",
+    "id": 318,
+    "day": 13,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "round",
+    "zh": "圆形的，球形的",
+    "category": "Sport",
+    "emoji": "🔄",
+    "id": 319,
+    "day": 13,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "will",
+    "zh": "将，将会",
+    "category": "Health",
+    "emoji": "📝",
+    "id": 320,
+    "day": 13,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "you'll=you will",
+    "zh": "你将",
+    "category": "Health",
+    "emoji": "👉📝",
+    "id": 321,
+    "day": 13,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "tower",
+    "zh": "塔",
+    "category": null,
+    "emoji": "🏰",
+    "id": 322,
+    "day": 13,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "bridge",
+    "zh": "桥",
+    "category": "Town and City",
+    "emoji": "🌉",
+    "id": 323,
+    "day": 13,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "eighteen",
+    "zh": "十八",
+    "category": "Measurements",
+    "emoji": "1️⃣8️⃣",
+    "id": 324,
+    "day": 13,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "thirteen",
+    "zh": "十三",
+    "category": "Personal Feelings",
+    "emoji": "1️⃣3️⃣",
+    "id": 325,
+    "day": 14,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "fifteen",
+    "zh": "十五",
+    "category": "Measurements",
+    "emoji": "1️⃣5️⃣",
+    "id": 326,
+    "day": 14,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "seventeen",
+    "zh": "十七",
+    "category": "Measurements",
+    "emoji": "1️⃣7️⃣",
+    "id": 327,
+    "day": 14,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "nineteen",
+    "zh": "十九",
+    "category": "Measurements",
+    "emoji": "1️⃣9️⃣",
+    "id": 328,
+    "day": 14,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "afraid",
+    "zh": "担心的",
+    "category": "Personal Feelings",
+    "emoji": "😨",
+    "id": 329,
+    "day": 14,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "feel",
+    "zh": "感觉，觉得",
+    "category": "Personal Feelings",
+    "emoji": "🤔",
+    "id": 330,
+    "day": 14,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "all right",
+    "zh": "好，行",
+    "category": null,
+    "emoji": "👌",
+    "id": 331,
+    "day": 14,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "tomorrow",
+    "zh": "明天",
+    "category": "Time",
+    "emoji": "📆",
+    "id": 332,
+    "day": 14,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "Monday",
+    "zh": "星期一",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 333,
+    "day": 14,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "why",
+    "zh": "为什么",
+    "category": null,
+    "emoji": "❓",
+    "id": 334,
+    "day": 14,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "why not?",
+    "zh": "为什么不呢？",
+    "category": null,
+    "emoji": "🤷",
+    "id": 335,
+    "day": 14,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "Tuesday",
+    "zh": "星期二",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 336,
+    "day": 14,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "Wednesday",
+    "zh": "星期三",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 337,
+    "day": 14,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "Thursday",
+    "zh": "星期四",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 338,
+    "day": 14,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "next",
+    "zh": "下一个的，其次的",
+    "category": "Measurements",
+    "emoji": "➡️",
+    "id": 339,
+    "day": 14,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "week",
+    "zh": "周，星期",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 340,
+    "day": 14,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "stamp",
+    "zh": "跺脚，用力踩",
+    "category": "Health",
+    "emoji": "📮",
+    "id": 341,
+    "day": 14,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "computer",
+    "zh": "计算机，电脑",
+    "category": "Appliances",
+    "emoji": "💻",
+    "id": 342,
+    "day": 14,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "shall",
+    "zh": "该，要",
+    "category": null,
+    "emoji": "🤝",
+    "id": 343,
+    "day": 14,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "arm",
+    "zh": "胳膊",
+    "category": "Health",
+    "emoji": "💪",
+    "id": 344,
+    "day": 14,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "any",
+    "zh": "一些，若干，任何一个",
+    "category": "Measurements",
+    "emoji": "❓",
+    "id": 345,
+    "day": 14,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "ask",
+    "zh": "问，询问，打听",
+    "category": null,
+    "emoji": "🙋",
+    "id": 346,
+    "day": 14,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "question",
+    "zh": "问题",
+    "category": null,
+    "emoji": "❓",
+    "id": 347,
+    "day": 14,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "forty",
+    "zh": "四十",
+    "category": "Measurements",
+    "emoji": "4️⃣0️⃣",
+    "id": 348,
+    "day": 14,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "so",
+    "zh": "因此",
+    "category": null,
+    "emoji": "➡️",
+    "id": 349,
+    "day": 14,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "thirty",
+    "zh": "三十",
+    "category": "Personal Feelings",
+    "emoji": "3️⃣0️⃣",
+    "id": 350,
+    "day": 15,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "lazy",
+    "zh": "懒惰的，懒散的",
+    "category": null,
+    "emoji": "😴",
+    "id": 351,
+    "day": 15,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "parent",
+    "zh": "母亲，父亲",
+    "category": "Family",
+    "emoji": "👪",
+    "id": 352,
+    "day": 15,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "Parents’ Day",
+    "zh": "家长日",
+    "category": "Family",
+    "emoji": "👨‍👩‍👧‍👦🎉",
+    "id": 353,
+    "day": 15,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "speak",
+    "zh": "谈话，说",
+    "category": null,
+    "emoji": "🗣️",
+    "id": 354,
+    "day": 15,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "quite",
+    "zh": "很，非常",
+    "category": null,
+    "emoji": "👌",
+    "id": 355,
+    "day": 15,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "good at",
+    "zh": "擅长",
+    "category": null,
+    "emoji": "💪",
+    "id": 356,
+    "day": 15,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "English",
+    "zh": "英语，英语课",
+    "category": null,
+    "emoji": "🇬🇧",
+    "id": 357,
+    "day": 15,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "PE=physical education",
+    "zh": "体育，体育课",
+    "category": "Natural World",
+    "emoji": "🤸‍♂️",
+    "id": 358,
+    "day": 15,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "art",
+    "zh": "美术，艺术，美术课",
+    "category": null,
+    "emoji": "🎨",
+    "id": 359,
+    "day": 15,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "report",
+    "zh": "成绩报告单",
+    "category": null,
+    "emoji": "📄",
+    "id": 360,
+    "day": 15,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "try",
+    "zh": "尝试，试图",
+    "category": null,
+    "emoji": "🤞",
+    "id": 361,
+    "day": 15,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "were (are 的过去式)",
+    "zh": "是",
+    "category": null,
+    "emoji": "⏳",
+    "id": 362,
+    "day": 15,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "young",
+    "zh": "年轻的",
+    "category": "Time",
+    "emoji": "🧒",
+    "id": 363,
+    "day": 15,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "beautiful",
+    "zh": "漂亮的，美丽的",
+    "category": null,
+    "emoji": "🌸",
+    "id": 364,
+    "day": 15,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "was (is 的过去式)",
+    "zh": "是",
+    "category": null,
+    "emoji": "⏳",
+    "id": 365,
+    "day": 15,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "also",
+    "zh": "也，还",
+    "category": null,
+    "emoji": "➕",
+    "id": 366,
+    "day": 15,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "who",
+    "zh": "谁",
+    "category": null,
+    "emoji": "❓",
+    "id": 367,
+    "day": 15,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "grandparent (外)祖父，（外）祖母",
+    "zh": null,
+    "category": "Family",
+    "emoji": "👵👴",
+    "id": 368,
+    "day": 15,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "yesterday",
+    "zh": "昨天",
+    "category": "Time",
+    "emoji": "📅⬅️",
+    "id": 369,
+    "day": 15,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "weren’t=were not",
+    "zh": "不是",
+    "category": null,
+    "emoji": "❌⏳",
+    "id": 370,
+    "day": 15,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "wasn’t=was not",
+    "zh": "不是",
+    "category": null,
+    "emoji": "❌⏳",
+    "id": 371,
+    "day": 15,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "fun",
+    "zh": "有趣的事",
+    "category": null,
+    "emoji": "🎉",
+    "id": 372,
+    "day": 15,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "second",
+    "zh": "第二",
+    "category": "Time",
+    "emoji": "2️⃣",
+    "id": 373,
+    "day": 15,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "floor",
+    "zh": "层",
+    "category": null,
+    "emoji": "🏢",
+    "id": 374,
+    "day": 15,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "worried",
+    "zh": "担忧的，焦虑的",
+    "category": null,
+    "emoji": "😟",
+    "id": 375,
+    "day": 16,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "find",
+    "zh": "发现，找到",
+    "category": null,
+    "emoji": "🔍",
+    "id": 376,
+    "day": 16,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "first",
+    "zh": "第一",
+    "category": "Measurements",
+    "emoji": "1️⃣",
+    "id": 377,
+    "day": 16,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "remember",
+    "zh": "记起，回想起",
+    "category": null,
+    "emoji": "🧠",
+    "id": 378,
+    "day": 16,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "Mother’s Day",
+    "zh": "母亲节",
+    "category": "Family",
+    "emoji": "👩‍👧‍👦💐",
+    "id": 379,
+    "day": 16,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "vegetable",
+    "zh": "蔬菜",
+    "category": "Food",
+    "emoji": "🥦",
+    "id": 380,
+    "day": 16,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "last",
+    "zh": "上一个",
+    "category": "Measurements",
+    "emoji": "🏁",
+    "id": 381,
+    "day": 16,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "said",
+    "zh": "说",
+    "category": null,
+    "emoji": "🗯️",
+    "id": 382,
+    "day": 16,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "concert",
+    "zh": "音乐会",
+    "category": null,
+    "emoji": "🎵",
+    "id": 383,
+    "day": 16,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "violin",
+    "zh": "小提琴",
+    "category": null,
+    "emoji": "🎻",
+    "id": 384,
+    "day": 16,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "guitar",
+    "zh": "吉他",
+    "category": null,
+    "emoji": "🎸",
+    "id": 385,
+    "day": 16,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "nervous",
+    "zh": "紧张的",
+    "category": null,
+    "emoji": "😬",
+    "id": 386,
+    "day": 16,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "end",
+    "zh": "结束",
+    "category": null,
+    "emoji": "🔚",
+    "id": 387,
+    "day": 16,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "proud",
+    "zh": "感到自豪的，感到骄傲的",
+    "category": null,
+    "emoji": "😌",
+    "id": 388,
+    "day": 16,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "bored",
+    "zh": "厌倦的；厌烦的",
+    "category": "Colours",
+    "emoji": "😐",
+    "id": 389,
+    "day": 16,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "village",
+    "zh": "乡村",
+    "category": "Health",
+    "emoji": "🏘️",
+    "id": 390,
+    "day": 16,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "everyone",
+    "zh": "人人，每人",
+    "category": "Measurements",
+    "emoji": "👥",
+    "id": 391,
+    "day": 16,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "laugh",
+    "zh": "笑",
+    "category": null,
+    "emoji": "😂",
+    "id": 392,
+    "day": 16,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "lie",
+    "zh": "谎话，谎言",
+    "category": null,
+    "emoji": "🤥",
+    "id": 393,
+    "day": 16,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "learnt (learn 的过去式)",
+    "zh": "学习",
+    "category": "Health",
+    "emoji": "📚",
+    "id": 394,
+    "day": 16,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "lesson",
+    "zh": "教训；一节课",
+    "category": "Family",
+    "emoji": "📖",
+    "id": 395,
+    "day": 16,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "wouldn't=would not",
+    "zh": "将不",
+    "category": null,
+    "emoji": "🚫",
+    "id": 396,
+    "day": 16,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "into",
+    "zh": "进入……里面",
+    "category": null,
+    "emoji": "➡️",
+    "id": 397,
+    "day": 16,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "month",
+    "zh": "月份，月",
+    "category": "Time",
+    "emoji": "🗓️",
+    "id": 398,
+    "day": 16,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "cheese",
+    "zh": "奶酪",
+    "category": null,
+    "emoji": "🧀",
+    "id": 399,
+    "day": 16,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "scared",
+    "zh": "惊恐的，害怕的",
+    "category": "Colours",
+    "emoji": "😨",
+    "id": 400,
+    "day": 17,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "run away",
+    "zh": "逃走，逃跑",
+    "category": "Sport",
+    "emoji": "🏃‍♂️💨",
+    "id": 401,
+    "day": 17,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "go into a shop",
+    "zh": "走进一家商店",
+    "category": "Buildings",
+    "emoji": "🏬",
+    "id": 402,
+    "day": 17,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "tell lies",
+    "zh": "说谎",
+    "category": null,
+    "emoji": "🤥",
+    "id": 403,
+    "day": 17,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "learn a lesson",
+    "zh": "学到一课（得到一次教训）",
+    "category": "Health",
+    "emoji": "📚",
+    "id": 404,
+    "day": 17,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "surprise",
+    "zh": "意想不到的礼物，意外之事，惊奇",
+    "category": null,
+    "emoji": "😲",
+    "id": 405,
+    "day": 17,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "hear",
+    "zh": "听见",
+    "category": "Health",
+    "emoji": "👂",
+    "id": 406,
+    "day": 17,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "special",
+    "zh": "特别的",
+    "category": null,
+    "emoji": "🌟",
+    "id": 407,
+    "day": 17,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "Father's Day",
+    "zh": "父亲节",
+    "category": "Family",
+    "emoji": "👔",
+    "id": 408,
+    "day": 17,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "message",
+    "zh": "便条，信，口信",
+    "category": null,
+    "emoji": "📩",
+    "id": 409,
+    "day": 17,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "stick",
+    "zh": "粘贴",
+    "category": null,
+    "emoji": "🪵",
+    "id": 410,
+    "day": 17,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "fantastic",
+    "zh": "极好的，极出色的",
+    "category": null,
+    "emoji": "🤩",
+    "id": 411,
+    "day": 17,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "meet",
+    "zh": "与……见面",
+    "category": null,
+    "emoji": "🤝",
+    "id": 412,
+    "day": 17,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "east",
+    "zh": "东，东方，东部",
+    "category": null,
+    "emoji": "➡️",
+    "id": 413,
+    "day": 17,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "west",
+    "zh": "西，西方，西部",
+    "category": null,
+    "emoji": "⬅️",
+    "id": 414,
+    "day": 17,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "o'clock",
+    "zh": "……点钟",
+    "category": "Time",
+    "emoji": "🕒",
+    "id": 415,
+    "day": 17,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "at 10 o'clock",
+    "zh": "在10点钟",
+    "category": "Time",
+    "emoji": "🕙",
+    "id": 416,
+    "day": 17,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "in the west of",
+    "zh": "在西部",
+    "category": null,
+    "emoji": "⬅️🌍",
+    "id": 417,
+    "day": 17,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "time",
+    "zh": "时间",
+    "category": "Time",
+    "emoji": "⏰",
+    "id": 418,
+    "day": 17,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "cartoon",
+    "zh": "动画片",
+    "category": "Travel and Transport",
+    "emoji": "📺",
+    "id": 419,
+    "day": 17,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "much",
+    "zh": "非常，很",
+    "category": null,
+    "emoji": "🔢",
+    "id": 420,
+    "day": 17,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "am",
+    "zh": "上午",
+    "category": null,
+    "emoji": "🌅",
+    "id": 421,
+    "day": 17,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "pm",
+    "zh": "下午",
+    "category": "Time",
+    "emoji": "🌇",
+    "id": 422,
+    "day": 17,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "lunch time",
+    "zh": "午饭时间",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 423,
+    "day": 17,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "best",
+    "zh": "最好的",
+    "category": null,
+    "emoji": "🏆",
+    "id": 424,
+    "day": 17,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "north",
+    "zh": "北，北方，北部",
+    "category": null,
+    "emoji": "⬆️",
+    "id": 425,
+    "day": 18,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "south",
+    "zh": "南，南方，南部",
+    "category": null,
+    "emoji": "⬇️",
+    "id": 426,
+    "day": 18,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "rest",
+    "zh": "休息",
+    "category": null,
+    "emoji": "😴",
+    "id": 427,
+    "day": 18,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "have a rest",
+    "zh": "休息一下",
+    "category": "Measurements",
+    "emoji": "🛌",
+    "id": 428,
+    "day": 18,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "country",
+    "zh": "国家",
+    "category": "Countryside",
+    "emoji": "🏞️",
+    "id": 429,
+    "day": 18,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "capital",
+    "zh": "首都",
+    "category": null,
+    "emoji": "🏛️",
+    "id": 430,
+    "day": 18,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "the capital of ……",
+    "zh": "的首都",
+    "category": null,
+    "emoji": "🏛️🌍",
+    "id": 431,
+    "day": 18,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "maybe",
+    "zh": "也许，大概",
+    "category": null,
+    "emoji": "🤔",
+    "id": 432,
+    "day": 18,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "map",
+    "zh": "地图",
+    "category": null,
+    "emoji": "🗺️",
+    "id": 433,
+    "day": 18,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "a map of China",
+    "zh": "中国地图",
+    "category": "Personal Feelings",
+    "emoji": "🗺️🇨🇳",
+    "id": 434,
+    "day": 18,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "an old city",
+    "zh": "一座古老的城市",
+    "category": "Town and City",
+    "emoji": "🏰",
+    "id": 435,
+    "day": 18,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "because",
+    "zh": "因为",
+    "category": null,
+    "emoji": "🧠",
+    "id": 436,
+    "day": 18,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "language",
+    "zh": "语言",
+    "category": null,
+    "emoji": "🗣️",
+    "id": 437,
+    "day": 18,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "Australia",
+    "zh": "澳大利亚",
+    "category": null,
+    "emoji": "🇦🇺",
+    "id": 438,
+    "day": 18,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "Australian",
+    "zh": "澳大利亚的",
+    "category": null,
+    "emoji": "🦘",
+    "id": 439,
+    "day": 18,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "kangaroo",
+    "zh": "袋鼠",
+    "category": null,
+    "emoji": "🦘",
+    "id": 440,
+    "day": 18,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "postcard",
+    "zh": "明信片",
+    "category": "Travel and Transport",
+    "emoji": "💌",
+    "id": 441,
+    "day": 18,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "plan",
+    "zh": "计划",
+    "category": null,
+    "emoji": "📝",
+    "id": 442,
+    "day": 18,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "museum",
+    "zh": "博物馆",
+    "category": null,
+    "emoji": "🏛️",
+    "id": 443,
+    "day": 18,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "restaurant",
+    "zh": "餐馆，饭店",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 444,
+    "day": 18,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "every day",
+    "zh": "每天",
+    "category": "Time",
+    "emoji": "📅",
+    "id": 445,
+    "day": 18,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "sell",
+    "zh": "卖，销售",
+    "category": "Shopping",
+    "emoji": "💰",
+    "id": 446,
+    "day": 18,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "chick",
+    "zh": "小鸡",
+    "category": "Personal Feelings",
+    "emoji": "🐥",
+    "id": 447,
+    "day": 18,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "true",
+    "zh": "真实的，确实的",
+    "category": null,
+    "emoji": "✅",
+    "id": 448,
+    "day": 18,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "got",
+    "zh": "(get 的过去式) 得到",
+    "category": null,
+    "emoji": "✋",
+    "id": 449,
+    "day": 18,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "eighty",
+    "zh": "八十",
+    "category": "Measurements",
+    "emoji": "8️⃣0️⃣",
+    "id": 450,
+    "day": 19,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "point",
+    "zh": "分数",
+    "category": null,
+    "emoji": "📍",
+    "id": 451,
+    "day": 19,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "fan",
+    "zh": "狂热爱好者，迷",
+    "category": "Weather",
+    "emoji": "🧑‍🤝‍🧑",
+    "id": 452,
+    "day": 19,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "seventy",
+    "zh": "七十",
+    "category": "Measurements",
+    "emoji": "7️⃣0️⃣",
+    "id": 453,
+    "day": 19,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "sixty",
+    "zh": "六十",
+    "category": "Measurements",
+    "emoji": "6️⃣0️⃣",
+    "id": 454,
+    "day": 19,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "half",
+    "zh": "一半",
+    "category": "Measurements",
+    "emoji": "🌓",
+    "id": 455,
+    "day": 19,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "miss",
+    "zh": "想念",
+    "category": null,
+    "emoji": "❌",
+    "id": 456,
+    "day": 19,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "study",
+    "zh": "学习",
+    "category": null,
+    "emoji": "📚",
+    "id": 457,
+    "day": 19,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "open",
+    "zh": "开着的",
+    "category": null,
+    "emoji": "🔓",
+    "id": 458,
+    "day": 19,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "wall",
+    "zh": "墙",
+    "category": null,
+    "emoji": "🧱",
+    "id": 459,
+    "day": 19,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "have fun",
+    "zh": "玩得开心",
+    "category": "Sport",
+    "emoji": "🎉",
+    "id": 460,
+    "day": 19,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "break",
+    "zh": "课间休息",
+    "category": null,
+    "emoji": "☕",
+    "id": 461,
+    "day": 19,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "morning exercise",
+    "zh": "做早餐",
+    "category": "Time",
+    "emoji": "🏃‍♂️",
+    "id": 462,
+    "day": 19,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "sausage",
+    "zh": "香肠",
+    "category": null,
+    "emoji": "🌭",
+    "id": 463,
+    "day": 19,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "sandwich",
+    "zh": "三明治",
+    "category": "Measurements",
+    "emoji": "🥪",
+    "id": 464,
+    "day": 19,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "fish and chips",
+    "zh": "炸鱼加炸薯条",
+    "category": "Food",
+    "emoji": "🍟🐟",
+    "id": 465,
+    "day": 19,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "traditional",
+    "zh": "传统的",
+    "category": null,
+    "emoji": "🏛️",
+    "id": 466,
+    "day": 19,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "dish",
+    "zh": "食品，菜肴",
+    "category": null,
+    "emoji": "🍽️",
+    "id": 467,
+    "day": 19,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "delicious",
+    "zh": "美味的",
+    "category": null,
+    "emoji": "😋",
+    "id": 468,
+    "day": 19,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "chicken",
+    "zh": "鸡肉",
+    "category": "Food",
+    "emoji": "🐔",
+    "id": 469,
+    "day": 19,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "player",
+    "zh": "演奏者",
+    "category": "Sport",
+    "emoji": "🎮",
+    "id": 470,
+    "day": 19,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "office",
+    "zh": "办公室",
+    "category": "Buildings",
+    "emoji": "🏢",
+    "id": 471,
+    "day": 19,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "fish",
+    "zh": "捕鱼，钓鱼",
+    "category": "Food",
+    "emoji": "🐟",
+    "id": 472,
+    "day": 19,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "useful",
+    "zh": "有用的",
+    "category": null,
+    "emoji": "👍",
+    "id": 473,
+    "day": 19,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "show",
+    "zh": "（电视或广播）节目",
+    "category": "Appliances",
+    "emoji": "🎭",
+    "id": 474,
+    "day": 19,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "presenter",
+    "zh": "（电视或广播节目的）主持人",
+    "category": "Appliances",
+    "emoji": "📺",
+    "id": 475,
+    "day": 20,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "blind",
+    "zh": "失明的，瞎的",
+    "category": null,
+    "emoji": "🧑‍🦯",
+    "id": 476,
+    "day": 20,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "could",
+    "zh": "(can 的过去式) 能",
+    "category": null,
+    "emoji": "🤔",
+    "id": 477,
+    "day": 20,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "fire",
+    "zh": "火灾，失火",
+    "category": "Services",
+    "emoji": "🔥",
+    "id": 478,
+    "day": 20,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "inside",
+    "zh": "在……里面",
+    "category": null,
+    "emoji": "🚪",
+    "id": 479,
+    "day": 20,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "fire fighter",
+    "zh": "消防队员",
+    "category": "Services",
+    "emoji": "👩‍🚒",
+    "id": 480,
+    "day": 20,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "couldn't",
+    "zh": "= could not 不能",
+    "category": null,
+    "emoji": "🙅",
+    "id": 481,
+    "day": 20,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "often",
+    "zh": "经常",
+    "category": "Measurements",
+    "emoji": "🔄",
+    "id": 482,
+    "day": 20,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "start",
+    "zh": "开始",
+    "category": "Natural World",
+    "emoji": "🚦",
+    "id": 483,
+    "day": 20,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "line",
+    "zh": "行，排，列",
+    "category": null,
+    "emoji": "📏",
+    "id": 484,
+    "day": 20,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "nothing",
+    "zh": "没有事情，没有东西",
+    "category": "Personal Feelings",
+    "emoji": "0️⃣",
+    "id": 485,
+    "day": 20,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "think",
+    "zh": "思考；想，觉得",
+    "category": "Personal Feelings",
+    "emoji": "🤔",
+    "id": 486,
+    "day": 20,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "drank",
+    "zh": "(drink 的过去式) 喝，饮",
+    "category": "Food",
+    "emoji": "🥤",
+    "id": 487,
+    "day": 20,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "should",
+    "zh": "应该",
+    "category": null,
+    "emoji": "✅",
+    "id": 488,
+    "day": 20,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "go to bed",
+    "zh": "上床睡觉",
+    "category": null,
+    "emoji": "🛏️",
+    "id": 489,
+    "day": 20,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "shouldn't = should not",
+    "zh": "不应该",
+    "category": null,
+    "emoji": "❌",
+    "id": 490,
+    "day": 20,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "take down",
+    "zh": "取下，拿下",
+    "category": null,
+    "emoji": "📝",
+    "id": 491,
+    "day": 20,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "clean",
+    "zh": "干净的",
+    "category": null,
+    "emoji": "🧼",
+    "id": 492,
+    "day": 20,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "rule",
+    "zh": "规则，规章",
+    "category": null,
+    "emoji": "📏",
+    "id": 493,
+    "day": 20,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "kind",
+    "zh": "友好的，善意的，体贴的",
+    "category": null,
+    "emoji": "😊",
+    "id": 494,
+    "day": 20,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "DVD",
+    "zh": "数字化视频光盘",
+    "category": null,
+    "emoji": "📀",
+    "id": 495,
+    "day": 20,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "Librarian",
+    "zh": "图书馆管理员，图书馆馆长",
+    "category": "Buildings",
+    "emoji": "👩‍💼",
+    "id": 496,
+    "day": 20,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "borrow",
+    "zh": "借入，借来",
+    "category": null,
+    "emoji": "🤲",
+    "id": 497,
+    "day": 20,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "sent",
+    "zh": "(send 的过去式) 寄, 发送",
+    "category": null,
+    "emoji": "📤",
+    "id": 498,
+    "day": 20,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "American",
+    "zh": "美国的，美国人的",
+    "category": null,
+    "emoji": "🇺🇸",
+    "id": 499,
+    "day": 20,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "interesting",
+    "zh": "令人感兴趣的，有趣的",
+    "category": null,
+    "emoji": "🤔",
+    "id": 500,
+    "day": 21,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "season",
+    "zh": "季节",
+    "category": "Natural World",
+    "emoji": "🌦️",
+    "id": 501,
+    "day": 21,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "snow",
+    "zh": "雪",
+    "category": "Weather",
+    "emoji": "❄️",
+    "id": 502,
+    "day": 21,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "tomb",
+    "zh": "坟墓",
+    "category": null,
+    "emoji": "🪦",
+    "id": 503,
+    "day": 21,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "wrote",
+    "zh": "写",
+    "category": null,
+    "emoji": "✍️",
+    "id": 504,
+    "day": 21,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "when",
+    "zh": "当……时",
+    "category": null,
+    "emoji": "⏰",
+    "id": 505,
+    "day": 21,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "book",
+    "zh": "簿，册",
+    "category": null,
+    "emoji": "📖",
+    "id": 506,
+    "day": 21,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "collect",
+    "zh": "收集",
+    "category": null,
+    "emoji": "📦",
+    "id": 507,
+    "day": 21,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "hobby",
+    "zh": "爱好",
+    "category": "Personal Feelings",
+    "emoji": "🎨",
+    "id": 508,
+    "day": 21,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "sun",
+    "zh": "太阳",
+    "category": "Weather",
+    "emoji": "☀️",
+    "id": 509,
+    "day": 21,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "island",
+    "zh": "岛屿",
+    "category": null,
+    "emoji": "🏝️",
+    "id": 510,
+    "day": 21,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "coconut",
+    "zh": "椰子",
+    "category": null,
+    "emoji": "🥥",
+    "id": 511,
+    "day": 21,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "Thanksgiving",
+    "zh": "感恩节",
+    "category": "Personal Feelings",
+    "emoji": "🦃",
+    "id": 512,
+    "day": 21,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "nearly",
+    "zh": "差不多，奖金",
+    "category": "Health",
+    "emoji": "🔜",
+    "id": 513,
+    "day": 21,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "the Spring Festival",
+    "zh": "春节",
+    "category": null,
+    "emoji": "🎉",
+    "id": 514,
+    "day": 21,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "sure",
+    "zh": "当然",
+    "category": null,
+    "emoji": "✅",
+    "id": 515,
+    "day": 21,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "December",
+    "zh": "十二月",
+    "category": "Time",
+    "emoji": "🎄",
+    "id": 516,
+    "day": 21,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "light",
+    "zh": "灯",
+    "category": null,
+    "emoji": "💡",
+    "id": 517,
+    "day": 21,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "pleased",
+    "zh": "开心的，高兴的",
+    "category": "Personal Feelings",
+    "emoji": "😊",
+    "id": 518,
+    "day": 21,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "pretty",
+    "zh": "漂亮的",
+    "category": null,
+    "emoji": "🌸",
+    "id": 519,
+    "day": 21,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "French",
+    "zh": "法语",
+    "category": null,
+    "emoji": "🇫🇷",
+    "id": 520,
+    "day": 21,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "phone",
+    "zh": "电话",
+    "category": "Appliances",
+    "emoji": "📱",
+    "id": 521,
+    "day": 21,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "world",
+    "zh": "世界",
+    "category": null,
+    "emoji": "🌍",
+    "id": 522,
+    "day": 21,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "difficult",
+    "zh": "困难的",
+    "category": null,
+    "emoji": "😣",
+    "id": 523,
+    "day": 21,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "answer",
+    "zh": "回答，答复",
+    "category": null,
+    "emoji": "💬",
+    "id": 524,
+    "day": 21,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "bamboo",
+    "zh": "竹子",
+    "category": null,
+    "emoji": "🎋",
+    "id": 525,
+    "day": 22,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "gave",
+    "zh": "给，送",
+    "category": null,
+    "emoji": "🎁",
+    "id": 526,
+    "day": 22,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "its",
+    "zh": "它的",
+    "category": null,
+    "emoji": "👉",
+    "id": 527,
+    "day": 22,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "almost",
+    "zh": "几乎，差不多",
+    "category": null,
+    "emoji": "⏳",
+    "id": 528,
+    "day": 22,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "deaf",
+    "zh": "聋的",
+    "category": null,
+    "emoji": "🦻",
+    "id": 529,
+    "day": 22,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "frightened",
+    "zh": "害怕的，受惊的",
+    "category": "Personal Feelings",
+    "emoji": "😨",
+    "id": 530,
+    "day": 22,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "roar",
+    "zh": "吼叫声",
+    "category": null,
+    "emoji": "🦁",
+    "id": 531,
+    "day": 22,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "fox",
+    "zh": "狐狸",
+    "category": null,
+    "emoji": "🦊",
+    "id": 532,
+    "day": 22,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "at night",
+    "zh": "在夜晚",
+    "category": "Time",
+    "emoji": "🌙",
+    "id": 533,
+    "day": 22,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "coin",
+    "zh": "硬币",
+    "category": null,
+    "emoji": "🪙",
+    "id": 534,
+    "day": 22,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "ever",
+    "zh": "曾经",
+    "category": null,
+    "emoji": "♾️",
+    "id": 535,
+    "day": 22,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "messy",
+    "zh": "凌乱的",
+    "category": null,
+    "emoji": "🌀",
+    "id": 536,
+    "day": 22,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "never",
+    "zh": "从不",
+    "category": null,
+    "emoji": "🚫",
+    "id": 537,
+    "day": 22,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "blackboard",
+    "zh": "黑板",
+    "category": "Colours",
+    "emoji": "🧑‍🏫",
+    "id": 538,
+    "day": 22,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "peace",
+    "zh": "和平",
+    "category": null,
+    "emoji": "☮️",
+    "id": 539,
+    "day": 22,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "make peace",
+    "zh": "维护和平",
+    "category": null,
+    "emoji": "✌️",
+    "id": 540,
+    "day": 22,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "member state",
+    "zh": "成员国",
+    "category": null,
+    "emoji": "🌐",
+    "id": 541,
+    "day": 22,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "famous",
+    "zh": "著名的",
+    "category": null,
+    "emoji": "🌟",
+    "id": 542,
+    "day": 22,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "aunt",
+    "zh": "姑母；姨母；舅母；伯母；婶母",
+    "category": "Family",
+    "emoji": "👩‍🦳",
+    "id": 543,
+    "day": 22,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "forgot",
+    "zh": "忘记",
+    "category": null,
+    "emoji": "🙈",
+    "id": 544,
+    "day": 22,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "cross",
+    "zh": "穿过(马路等)；渡过(河)",
+    "category": "Natural World",
+    "emoji": "❌",
+    "id": 545,
+    "day": 22,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "close",
+    "zh": "合上，关闭",
+    "category": null,
+    "emoji": "🔒",
+    "id": 546,
+    "day": 22,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "quickly",
+    "zh": "快速地",
+    "category": null,
+    "emoji": "⚡",
+    "id": 547,
+    "day": 22,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "left (leave 的过去式)",
+    "zh": "丢下",
+    "category": null,
+    "emoji": "⬅️",
+    "id": 548,
+    "day": 22,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "shine (太阳)",
+    "zh": "发光，照耀",
+    "category": "Weather",
+    "emoji": "✨",
+    "id": 549,
+    "day": 22,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "need",
+    "zh": "需要",
+    "category": null,
+    "emoji": "🙏",
+    "id": 550,
+    "day": 23,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "grab",
+    "zh": "抓住；抓取",
+    "category": null,
+    "emoji": "🤲",
+    "id": 551,
+    "day": 23,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "balloon",
+    "zh": "气球",
+    "category": "Sport",
+    "emoji": "🎈",
+    "id": 552,
+    "day": 23,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "fly away",
+    "zh": "飞走",
+    "category": null,
+    "emoji": "🕊️",
+    "id": 553,
+    "day": 23,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "stairs (常复)",
+    "zh": "楼梯",
+    "category": null,
+    "emoji": "🪜",
+    "id": 554,
+    "day": 23,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "telephone",
+    "zh": "电话",
+    "category": "Appliances",
+    "emoji": "☎️",
+    "id": 555,
+    "day": 23,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "ring",
+    "zh": "响",
+    "category": null,
+    "emoji": "💍",
+    "id": 556,
+    "day": 23,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "bell",
+    "zh": "门铃",
+    "category": null,
+    "emoji": "🔔",
+    "id": 557,
+    "day": 23,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "bark (狗)",
+    "zh": "吠,叫",
+    "category": "Natural World",
+    "emoji": "🐕‍🦺",
+    "id": 558,
+    "day": 23,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "arrive",
+    "zh": "到达",
+    "category": null,
+    "emoji": "🛬",
+    "id": 559,
+    "day": 23,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "hardly",
+    "zh": "几乎不",
+    "category": null,
+    "emoji": "😣",
+    "id": 560,
+    "day": 23,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "raincoat",
+    "zh": "雨衣",
+    "category": "Clothes",
+    "emoji": "🧥",
+    "id": 561,
+    "day": 23,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "tunnel",
+    "zh": "隧道",
+    "category": null,
+    "emoji": "🚇",
+    "id": 562,
+    "day": 23,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "earth",
+    "zh": "地球",
+    "category": "Health",
+    "emoji": "🌍",
+    "id": 563,
+    "day": 23,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "space",
+    "zh": "太空",
+    "category": null,
+    "emoji": "🌌",
+    "id": 564,
+    "day": 23,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "travel",
+    "zh": "旅行",
+    "category": "Travel and Transport",
+    "emoji": "✈️",
+    "id": 565,
+    "day": 23,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "interested",
+    "zh": "感兴趣",
+    "category": null,
+    "emoji": "🤔",
+    "id": 566,
+    "day": 23,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "be interested in",
+    "zh": "对……感兴趣",
+    "category": null,
+    "emoji": "🤓",
+    "id": 567,
+    "day": 23,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "spaceship",
+    "zh": "宇宙飞船",
+    "category": "Personal Feelings",
+    "emoji": "🚀",
+    "id": 568,
+    "day": 23,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "surprised",
+    "zh": "惊奇的；惊讶的",
+    "category": "Personal Feelings",
+    "emoji": "😲",
+    "id": 569,
+    "day": 23,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "made (make 的过去式)",
+    "zh": "做，制作",
+    "category": null,
+    "emoji": "🔨",
+    "id": 570,
+    "day": 23,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "model",
+    "zh": "模型；模范，榜样",
+    "category": null,
+    "emoji": "🧍",
+    "id": 571,
+    "day": 23,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "taikonaut (中国的)",
+    "zh": "太空人，宇航员",
+    "category": null,
+    "emoji": "👨‍🚀🇨🇳",
+    "id": 572,
+    "day": 23,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "national",
+    "zh": "国家的",
+    "category": "Countryside",
+    "emoji": "🏛️",
+    "id": 573,
+    "day": 23,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "flag",
+    "zh": "旗",
+    "category": null,
+    "emoji": "🚩",
+    "id": 574,
+    "day": 23,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "seed",
+    "zh": "种子",
+    "category": null,
+    "emoji": "🌱",
+    "id": 575,
+    "day": 24,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "flew (fly 的过去式)",
+    "zh": "飞，飞行",
+    "category": null,
+    "emoji": "🕊️",
+    "id": 576,
+    "day": 24,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "spent (spend 的过去式)",
+    "zh": "度过",
+    "category": "Measurements",
+    "emoji": "💸",
+    "id": 577,
+    "day": 24,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "video",
+    "zh": "录像",
+    "category": null,
+    "emoji": "📹",
+    "id": 578,
+    "day": 24,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "someday",
+    "zh": "有朝一日",
+    "category": "Time",
+    "emoji": "🕰️",
+    "id": 579,
+    "day": 24,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "born",
+    "zh": "出生，诞生",
+    "category": null,
+    "emoji": "👶",
+    "id": 580,
+    "day": 24,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "illness",
+    "zh": "病，疾病",
+    "category": "Health",
+    "emoji": "🤒",
+    "id": 581,
+    "day": 24,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "all over the world",
+    "zh": "全世界",
+    "category": null,
+    "emoji": "🌐",
+    "id": 582,
+    "day": 24,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "cup",
+    "zh": "杯子",
+    "category": null,
+    "emoji": "🏆",
+    "id": 583,
+    "day": 24,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "classmate",
+    "zh": "同班同学",
+    "category": null,
+    "emoji": "👩‍🎓",
+    "id": 584,
+    "day": 24,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "baseball",
+    "zh": "棒球",
+    "category": "Sport",
+    "emoji": "⚾",
+    "id": 585,
+    "day": 24,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "brought (bring 的过去式)",
+    "zh": "带来",
+    "category": null,
+    "emoji": "🤲",
+    "id": 586,
+    "day": 24,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "more",
+    "zh": "更强烈地",
+    "category": null,
+    "emoji": "➕",
+    "id": 587,
+    "day": 24,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "mistake",
+    "zh": "错误",
+    "category": null,
+    "emoji": "❌",
+    "id": 588,
+    "day": 24,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "make mistakes",
+    "zh": "犯错误",
+    "category": null,
+    "emoji": "🤦",
+    "id": 589,
+    "day": 24,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "word",
+    "zh": "单词，字",
+    "category": null,
+    "emoji": "🔤",
+    "id": 590,
+    "day": 24,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "best wishes",
+    "zh": "最美好的祝福",
+    "category": null,
+    "emoji": "🎉",
+    "id": 591,
+    "day": 24,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "luck",
+    "zh": "运气",
+    "category": null,
+    "emoji": "🍀",
+    "id": 592,
+    "day": 24,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "primary",
+    "zh": "初级的，小学的",
+    "category": null,
+    "emoji": "1️⃣",
+    "id": 593,
+    "day": 24,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "primary school",
+    "zh": "小学",
+    "category": "Buildings",
+    "emoji": "🏫",
+    "id": 594,
+    "day": 24,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "keep",
+    "zh": "保留",
+    "category": null,
+    "emoji": "🤝",
+    "id": 595,
+    "day": 24,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "forever",
+    "zh": "永远",
+    "category": null,
+    "emoji": "♾️",
+    "id": 596,
+    "day": 24,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "joy",
+    "zh": "乐趣",
+    "category": null,
+    "emoji": "😊",
+    "id": 597,
+    "day": 24,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "future",
+    "zh": "未来",
+    "category": null,
+    "emoji": "🔮",
+    "id": 598,
+    "day": 24,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "taught",
+    "zh": "teach 的过去式",
+    "category": "Food",
+    "emoji": "📚",
+    "id": 599,
+    "day": 24,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "教",
+    "zh": "讲授",
+    "category": null,
+    "emoji": "📚",
+    "id": 600,
+    "day": 25,
+    "positionInDay": 1,
+    "totalInDay": 16
+  },
+  {
+    "en": "wonderful",
+    "zh": "极好的, 了不起的",
+    "category": null,
+    "emoji": "🌟",
+    "id": 601,
+    "day": 25,
+    "positionInDay": 2,
+    "totalInDay": 16
+  },
+  {
+    "en": "happiness",
+    "zh": "幸福, 快乐",
+    "category": null,
+    "emoji": "😊",
+    "id": 602,
+    "day": 25,
+    "positionInDay": 3,
+    "totalInDay": 16
+  },
+  {
+    "en": "keep on",
+    "zh": "保持",
+    "category": null,
+    "emoji": "➡️",
+    "id": 603,
+    "day": 25,
+    "positionInDay": 4,
+    "totalInDay": 16
+  },
+  {
+    "en": "sometime",
+    "zh": "某个时候",
+    "category": "Time",
+    "emoji": "⏳",
+    "id": 604,
+    "day": 25,
+    "positionInDay": 5,
+    "totalInDay": 16
+  },
+  {
+    "en": "each other",
+    "zh": "互相；彼此",
+    "category": null,
+    "emoji": "🤝",
+    "id": 605,
+    "day": 25,
+    "positionInDay": 6,
+    "totalInDay": 16
+  },
+  {
+    "en": "chemistry",
+    "zh": "化学",
+    "category": null,
+    "emoji": "⚗️",
+    "id": 606,
+    "day": 25,
+    "positionInDay": 7,
+    "totalInDay": 16
+  },
+  {
+    "en": "physics",
+    "zh": "物理",
+    "category": null,
+    "emoji": "🔬",
+    "id": 607,
+    "day": 25,
+    "positionInDay": 8,
+    "totalInDay": 16
+  },
+  {
+    "en": "middle",
+    "zh": "中部的，中等的，中间",
+    "category": null,
+    "emoji": "➖",
+    "id": 608,
+    "day": 25,
+    "positionInDay": 9,
+    "totalInDay": 16
+  },
+  {
+    "en": "middle school",
+    "zh": "中学",
+    "category": "Buildings",
+    "emoji": "🏫",
+    "id": 609,
+    "day": 25,
+    "positionInDay": 10,
+    "totalInDay": 16
+  },
+  {
+    "en": "speech",
+    "zh": "演说，讲演",
+    "category": null,
+    "emoji": "🗣️",
+    "id": 610,
+    "day": 25,
+    "positionInDay": 11,
+    "totalInDay": 16
+  },
+  {
+    "en": "September",
+    "zh": "九月",
+    "category": "Time",
+    "emoji": "🍂",
+    "id": 611,
+    "day": 25,
+    "positionInDay": 12,
+    "totalInDay": 16
+  },
+  {
+    "en": "excited",
+    "zh": "激动地，兴奋的",
+    "category": "Personal Feelings",
+    "emoji": "🤩",
+    "id": 612,
+    "day": 25,
+    "positionInDay": 13,
+    "totalInDay": 16
+  },
+  {
+    "en": "geography",
+    "zh": "地理",
+    "category": null,
+    "emoji": "🌍",
+    "id": 613,
+    "day": 25,
+    "positionInDay": 14,
+    "totalInDay": 16
+  },
+  {
+    "en": "same",
+    "zh": "相同的",
+    "category": null,
+    "emoji": "🟰",
+    "id": 614,
+    "day": 25,
+    "positionInDay": 15,
+    "totalInDay": 16
+  },
+  {
+    "en": "at the same time",
+    "zh": "同时",
+    "category": "Time",
+    "emoji": "⏰",
+    "id": 615,
+    "day": 25,
+    "positionInDay": 16,
+    "totalInDay": 16
+  }
+]

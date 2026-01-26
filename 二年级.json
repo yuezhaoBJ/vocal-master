@@ -1,0 +1,662 @@
+[
+  {
+    "en": "二年级上",
+    "zh": null,
+    "category": "Time",
+    "emoji": "📚",
+    "id": 0,
+    "day": 1,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 1",
+    "zh": null,
+    "category": null,
+    "emoji": "🧩",
+    "id": 1,
+    "day": 1,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "song",
+    "zh": "歌曲",
+    "category": "Family",
+    "emoji": "🎵",
+    "id": 2,
+    "day": 1,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "come on",
+    "zh": "加油；快点",
+    "category": null,
+    "emoji": "👉",
+    "id": 3,
+    "day": 1,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "team",
+    "zh": "球队，运动队",
+    "category": "Sport",
+    "emoji": "🤝",
+    "id": 4,
+    "day": 1,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 2",
+    "zh": null,
+    "category": null,
+    "emoji": "🧩",
+    "id": 5,
+    "day": 1,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "meat",
+    "zh": "肉",
+    "category": "Food",
+    "emoji": "🥩",
+    "id": 6,
+    "day": 1,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "noodles",
+    "zh": "（常复）面条",
+    "category": null,
+    "emoji": "🍜",
+    "id": 7,
+    "day": 1,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "rice",
+    "zh": "米饭",
+    "category": "Food",
+    "emoji": "🍚",
+    "id": 8,
+    "day": 1,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "sweets",
+    "zh": "（常复）糖果",
+    "category": null,
+    "emoji": "🍬",
+    "id": 9,
+    "day": 1,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "children",
+    "zh": "(child 复数) 孩子们",
+    "category": "Personal Feelings",
+    "emoji": "👧👦",
+    "id": 10,
+    "day": 1,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "ginger",
+    "zh": "姜",
+    "category": null,
+    "emoji": "🫚",
+    "id": 11,
+    "day": 1,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "nice",
+    "zh": "好的",
+    "category": null,
+    "emoji": "👍",
+    "id": 12,
+    "day": 1,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "onion",
+    "zh": "洋葱",
+    "category": null,
+    "emoji": "🧅",
+    "id": 13,
+    "day": 1,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "ice cream",
+    "zh": "冰淇淋",
+    "category": null,
+    "emoji": "🍦",
+    "id": 14,
+    "day": 1,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 3",
+    "zh": null,
+    "category": null,
+    "emoji": "🧩",
+    "id": 15,
+    "day": 1,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "banana",
+    "zh": "香蕉",
+    "category": "Food",
+    "emoji": "🍌",
+    "id": 16,
+    "day": 1,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "apple",
+    "zh": "苹果",
+    "category": "Food",
+    "emoji": "🍎",
+    "id": 17,
+    "day": 1,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "milk",
+    "zh": "奶，牛奶",
+    "category": "Food",
+    "emoji": "🥛",
+    "id": 18,
+    "day": 1,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "orange",
+    "zh": "柑橘，橙",
+    "category": "Food",
+    "emoji": "🍊",
+    "id": 19,
+    "day": 1,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "fruit",
+    "zh": "水果",
+    "category": "Food",
+    "emoji": "🍇",
+    "id": 20,
+    "day": 1,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "milkshake",
+    "zh": "奶昔",
+    "category": "Food",
+    "emoji": "🥤",
+    "id": 21,
+    "day": 1,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "Here you are.",
+    "zh": "给你。",
+    "category": null,
+    "emoji": "🤲",
+    "id": 22,
+    "day": 1,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "everything",
+    "zh": "每件事，所有事物",
+    "category": "Personal Feelings",
+    "emoji": "🌍",
+    "id": 23,
+    "day": 1,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "tomato",
+    "zh": "番茄，西红柿",
+    "category": null,
+    "emoji": "🍅",
+    "id": 24,
+    "day": 1,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "really",
+    "zh": "很，非常",
+    "category": null,
+    "emoji": "😮",
+    "id": 25,
+    "day": 2,
+    "positionInDay": 1,
+    "totalInDay": 25
+  },
+  {
+    "en": "their",
+    "zh": "他（她/它）们的",
+    "category": null,
+    "emoji": "👥",
+    "id": 26,
+    "day": 2,
+    "positionInDay": 2,
+    "totalInDay": 25
+  },
+  {
+    "en": "favorite",
+    "zh": "最喜欢的事物",
+    "category": "Personal Feelings",
+    "emoji": "⭐",
+    "id": 27,
+    "day": 2,
+    "positionInDay": 3,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 4",
+    "zh": null,
+    "category": null,
+    "emoji": "🧩",
+    "id": 28,
+    "day": 2,
+    "positionInDay": 4,
+    "totalInDay": 25
+  },
+  {
+    "en": "T-shirt",
+    "zh": "T恤衫",
+    "category": "Clothes",
+    "emoji": "👕",
+    "id": 29,
+    "day": 2,
+    "positionInDay": 5,
+    "totalInDay": 25
+  },
+  {
+    "en": "here's = here is",
+    "zh": "这是",
+    "category": null,
+    "emoji": "📍",
+    "id": 30,
+    "day": 2,
+    "positionInDay": 6,
+    "totalInDay": 25
+  },
+  {
+    "en": "dress",
+    "zh": "连衣裙",
+    "category": "Clothes",
+    "emoji": "👗",
+    "id": 31,
+    "day": 2,
+    "positionInDay": 7,
+    "totalInDay": 25
+  },
+  {
+    "en": "too",
+    "zh": "太……",
+    "category": null,
+    "emoji": "➕",
+    "id": 32,
+    "day": 2,
+    "positionInDay": 8,
+    "totalInDay": 25
+  },
+  {
+    "en": "one",
+    "zh": "一个",
+    "category": "Measurements",
+    "emoji": "1️⃣",
+    "id": 33,
+    "day": 2,
+    "positionInDay": 9,
+    "totalInDay": 25
+  },
+  {
+    "en": "doesn't = does not",
+    "zh": "不",
+    "category": null,
+    "emoji": "🚫",
+    "id": 34,
+    "day": 2,
+    "positionInDay": 10,
+    "totalInDay": 25
+  },
+  {
+    "en": "trousers",
+    "zh": "裤子",
+    "category": "Clothes",
+    "emoji": "👖",
+    "id": 35,
+    "day": 2,
+    "positionInDay": 11,
+    "totalInDay": 25
+  },
+  {
+    "en": "party",
+    "zh": "聚会",
+    "category": null,
+    "emoji": "🎉",
+    "id": 36,
+    "day": 2,
+    "positionInDay": 12,
+    "totalInDay": 25
+  },
+  {
+    "en": "Module 5",
+    "zh": null,
+    "category": null,
+    "emoji": "🧩",
+    "id": 37,
+    "day": 2,
+    "positionInDay": 13,
+    "totalInDay": 25
+  },
+  {
+    "en": "get up",
+    "zh": "起床",
+    "category": null,
+    "emoji": "⏰",
+    "id": 38,
+    "day": 2,
+    "positionInDay": 14,
+    "totalInDay": 25
+  },
+  {
+    "en": "poster",
+    "zh": "海报，招贴画",
+    "category": "Natural World",
+    "emoji": "🖼️",
+    "id": 39,
+    "day": 2,
+    "positionInDay": 15,
+    "totalInDay": 25
+  },
+  {
+    "en": "go to school",
+    "zh": "去上学",
+    "category": "Buildings",
+    "emoji": "🏫",
+    "id": 40,
+    "day": 2,
+    "positionInDay": 16,
+    "totalInDay": 25
+  },
+  {
+    "en": "have",
+    "zh": "吃，喝",
+    "category": "Food",
+    "emoji": "🤲",
+    "id": 41,
+    "day": 2,
+    "positionInDay": 17,
+    "totalInDay": 25
+  },
+  {
+    "en": "lunch",
+    "zh": "午餐",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 42,
+    "day": 2,
+    "positionInDay": 18,
+    "totalInDay": 25
+  },
+  {
+    "en": "have lunch",
+    "zh": "吃午餐",
+    "category": "Food",
+    "emoji": "🍽️",
+    "id": 43,
+    "day": 2,
+    "positionInDay": 19,
+    "totalInDay": 25
+  },
+  {
+    "en": "weather",
+    "zh": "天气",
+    "category": "Food",
+    "emoji": "🌤️",
+    "id": 44,
+    "day": 2,
+    "positionInDay": 20,
+    "totalInDay": 25
+  },
+  {
+    "en": "like",
+    "zh": "像，如同",
+    "category": "Personal Feelings",
+    "emoji": "👍",
+    "id": 45,
+    "day": 2,
+    "positionInDay": 21,
+    "totalInDay": 25
+  },
+  {
+    "en": "What's the weather like?",
+    "zh": "天气怎么样？",
+    "category": "Food",
+    "emoji": "🌦️",
+    "id": 46,
+    "day": 2,
+    "positionInDay": 22,
+    "totalInDay": 25
+  },
+  {
+    "en": "sunny",
+    "zh": "阳光明媚的",
+    "category": "Weather",
+    "emoji": "☀️",
+    "id": 47,
+    "day": 2,
+    "positionInDay": 23,
+    "totalInDay": 25
+  },
+  {
+    "en": "windy",
+    "zh": "有风的，刮风的",
+    "category": "Weather",
+    "emoji": "🌬️",
+    "id": 48,
+    "day": 2,
+    "positionInDay": 24,
+    "totalInDay": 25
+  },
+  {
+    "en": "take",
+    "zh": "带，拿",
+    "category": null,
+    "emoji": "✋",
+    "id": 49,
+    "day": 2,
+    "positionInDay": 25,
+    "totalInDay": 25
+  },
+  {
+    "en": "cap",
+    "zh": "（有帽檐的）帽子",
+    "category": "Clothes",
+    "emoji": "🧢",
+    "id": 50,
+    "day": 3,
+    "positionInDay": 1,
+    "totalInDay": 16
+  },
+  {
+    "en": "sofa",
+    "zh": "沙发",
+    "category": null,
+    "emoji": "🛋️",
+    "id": 51,
+    "day": 3,
+    "positionInDay": 2,
+    "totalInDay": 16
+  },
+  {
+    "en": "street",
+    "zh": "街道",
+    "category": "Travel and Transport",
+    "emoji": "🛣️",
+    "id": 52,
+    "day": 3,
+    "positionInDay": 3,
+    "totalInDay": 16
+  },
+  {
+    "en": "rain",
+    "zh": "下雨；雨",
+    "category": "Weather",
+    "emoji": "🌧️",
+    "id": 53,
+    "day": 3,
+    "positionInDay": 4,
+    "totalInDay": 16
+  },
+  {
+    "en": "snow",
+    "zh": "雪",
+    "category": "Weather",
+    "emoji": "❄️",
+    "id": 54,
+    "day": 3,
+    "positionInDay": 5,
+    "totalInDay": 16
+  },
+  {
+    "en": "ski",
+    "zh": "滑雪",
+    "category": "Weather",
+    "emoji": "🎿",
+    "id": 55,
+    "day": 3,
+    "positionInDay": 6,
+    "totalInDay": 16
+  },
+  {
+    "en": "radio",
+    "zh": "收音机；电台节目",
+    "category": "Appliances",
+    "emoji": "📻",
+    "id": 56,
+    "day": 3,
+    "positionInDay": 7,
+    "totalInDay": 16
+  },
+  {
+    "en": "photo",
+    "zh": "照片",
+    "category": "Weather",
+    "emoji": "📷",
+    "id": 57,
+    "day": 3,
+    "positionInDay": 8,
+    "totalInDay": 16
+  },
+  {
+    "en": "newspaper",
+    "zh": "报纸",
+    "category": null,
+    "emoji": "📰",
+    "id": 58,
+    "day": 3,
+    "positionInDay": 9,
+    "totalInDay": 16
+  },
+  {
+    "en": "little",
+    "zh": "年幼的，幼小的",
+    "category": "Time",
+    "emoji": "🧒",
+    "id": 59,
+    "day": 3,
+    "positionInDay": 10,
+    "totalInDay": 16
+  },
+  {
+    "en": "camera",
+    "zh": "照相机",
+    "category": "Appliances",
+    "emoji": "📸",
+    "id": 60,
+    "day": 3,
+    "positionInDay": 11,
+    "totalInDay": 16
+  },
+  {
+    "en": "smile",
+    "zh": "微笑",
+    "category": "Measurements",
+    "emoji": "😄",
+    "id": 61,
+    "day": 3,
+    "positionInDay": 12,
+    "totalInDay": 16
+  },
+  {
+    "en": "draw",
+    "zh": "绘画，画",
+    "category": null,
+    "emoji": "🖌️",
+    "id": 62,
+    "day": 3,
+    "positionInDay": 13,
+    "totalInDay": 16
+  },
+  {
+    "en": "picture",
+    "zh": "图画；照片",
+    "category": null,
+    "emoji": "🖼️",
+    "id": 63,
+    "day": 3,
+    "positionInDay": 14,
+    "totalInDay": 16
+  },
+  {
+    "en": "write",
+    "zh": "写",
+    "category": null,
+    "emoji": "✍️",
+    "id": 64,
+    "day": 3,
+    "positionInDay": 15,
+    "totalInDay": 16
+  },
+  {
+    "en": "letter",
+    "zh": "信",
+    "category": null,
+    "emoji": "✉️",
+    "id": 65,
+    "day": 3,
+    "positionInDay": 16,
+    "totalInDay": 16
+  }
+]
