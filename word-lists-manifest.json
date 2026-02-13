@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ket",
+    "name": "KET",
+    "filename": "words-ket.json"
+  },
+  {
+    "id": "grade3-down",
+    "name": "三年级下册",
+    "filename": "三年级下册.json"
+  },
+  {
+    "id": "grade5-up",
+    "name": "五年级上册",
+    "filename": "五年级上册.json"
+  },
+  {
+    "id": "grade5-down",
+    "name": "五年级下册",
+    "filename": "五年级下册.json"
+  },
+  {
+    "id": "grade4-up",
+    "name": "四年级上册",
+    "filename": "四年级上册.json"
+  },
+  {
+    "id": "grade4-down",
+    "name": "四年级下册",
+    "filename": "四年级下册.json"
+  },
+  {
+    "id": "primary-all",
+    "name": "小学",
+    "filename": "小学all.json"
+  }
+]
